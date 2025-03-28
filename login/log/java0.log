@@ -1,0 +1,41 @@
+2025.03.24 10:53:36,619	INFO	1	org.l2jdevs.commons.database.pool.impl.ConnectionFactory	Using HikariCP connection pool.
+2025.03.24 10:53:36,682	INFO	1	org.l2jdevs.loginserver.LoginController	Loading LoginController...
+2025.03.24 10:53:37,072	INFO	1	org.l2jdevs.loginserver.LoginController	Cached 10 KeyPairs for RSA communication
+2025.03.24 10:53:37,119	INFO	1	org.l2jdevs.loginserver.LoginController	Stored 20 keys for Blowfish communication
+2025.03.24 10:53:37,197	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	GameServerTable: Loaded 127 server names.
+2025.03.24 10:53:37,197	INFO	1	com.zaxxer.hikari.HikariDataSource	HikariPool-1 - Starting...
+2025.03.24 10:53:37,385	INFO	1	com.zaxxer.hikari.HikariDataSource	HikariPool-1 - Start completed.
+2025.03.24 10:53:37,432	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	GameServerTable: Loaded 1 registered Game Servers.
+2025.03.24 10:53:37,525	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	GameServerTable: Cached 10 RSA keys for Game Server communication.
+2025.03.24 10:53:37,525	INFO	1	org.l2jdevs.loginserver.L2LoginServer	Loaded 2 IP Bans.
+2025.03.24 10:53:37,556	INFO	1	org.l2jdevs.loginserver.L2LoginServer	Listening for GameServers on 127.0.0.1:9014
+2025.03.24 10:53:37,556	INFO	1	org.l2jdevs.loginserver.L2LoginServer	Telnet server is currently disabled.
+2025.03.24 10:53:37,556	INFO	1	org.l2jdevs.loginserver.L2LoginServer	L2LoginServer: is now listening on: *:2106
+2025.03.24 10:53:37,572	INFO	1	org.l2jdevs.UPnPService	Looking for UPnP Gateway Devices...
+2025.03.24 10:53:38,061	INFO	1	org.l2jdevs.UPnPService	Using UPnP gateway: S7
+2025.03.24 10:53:38,071	INFO	1	org.l2jdevs.UPnPService	Using local address: 192.168.68.107 External address: 192.168.100.242
+2025.03.24 10:53:38,130	INFO	1	org.l2jdevs.UPnPService	Mapping successful on 192.168.68.107:2106
+2025.03.24 10:54:01,377	INFO	25	org.l2jdevs.loginserver.GameServerThread	Updated Gameserver [1] Bartz IP's:
+2025.03.24 10:54:01,378	INFO	25	org.l2jdevs.loginserver.GameServerThread	127.0.0.1/127.0.0.0/8
+2025.03.24 10:54:01,379	INFO	25	org.l2jdevs.loginserver.GameServerThread	192.168.68.107/192.168.68.0/22
+2025.03.24 10:54:01,379	INFO	25	org.l2jdevs.loginserver.GameServerThread	138.219.57.231/0.0.0.0/0
+2025.03.24 11:44:11,443	INFO	25	org.l2jdevs.loginserver.GameServerThread	GameServer [1] Bartz: Connection lost: Connection reset
+2025.03.24 11:44:11,443	INFO	25	org.l2jdevs.loginserver.GameServerThread	Server [1] Bartz is now set as disconnected
+2025.03.24 11:44:39,822	INFO	40	org.l2jdevs.loginserver.GameServerThread	Updated Gameserver [1] Bartz IP's:
+2025.03.24 11:44:39,823	INFO	40	org.l2jdevs.loginserver.GameServerThread	127.0.0.1/127.0.0.0/8
+2025.03.24 11:44:39,823	INFO	40	org.l2jdevs.loginserver.GameServerThread	192.168.68.107/192.168.68.0/22
+2025.03.24 11:44:39,823	INFO	40	org.l2jdevs.loginserver.GameServerThread	138.219.57.231/0.0.0.0/0
+2025.03.24 13:43:17,386	INFO	40	org.l2jdevs.loginserver.GameServerThread	GameServer [1] Bartz: Connection lost: Connection reset
+2025.03.24 13:43:17,386	INFO	40	org.l2jdevs.loginserver.GameServerThread	Server [1] Bartz is now set as disconnected
+2025.03.24 13:43:46,758	INFO	83	org.l2jdevs.loginserver.GameServerThread	Updated Gameserver [1] Bartz IP's:
+2025.03.24 13:43:46,759	INFO	83	org.l2jdevs.loginserver.GameServerThread	127.0.0.1/127.0.0.0/8
+2025.03.24 13:43:46,760	INFO	83	org.l2jdevs.loginserver.GameServerThread	192.168.68.107/192.168.68.0/22
+2025.03.24 13:43:46,761	INFO	83	org.l2jdevs.loginserver.GameServerThread	138.219.57.231/0.0.0.0/0
+2025.03.24 14:21:12,530	INFO	83	org.l2jdevs.loginserver.GameServerThread	GameServer [1] Bartz: Connection lost: Connection reset
+2025.03.24 14:21:12,530	INFO	83	org.l2jdevs.loginserver.GameServerThread	Server [1] Bartz is now set as disconnected
+2025.03.24 14:21:41,259	INFO	108	org.l2jdevs.loginserver.GameServerThread	Updated Gameserver [1] Bartz IP's:
+2025.03.24 14:21:41,259	INFO	108	org.l2jdevs.loginserver.GameServerThread	127.0.0.1/127.0.0.0/8
+2025.03.24 14:21:41,260	INFO	108	org.l2jdevs.loginserver.GameServerThread	192.168.68.107/192.168.68.0/22
+2025.03.24 14:21:41,261	INFO	108	org.l2jdevs.loginserver.GameServerThread	138.219.57.231/0.0.0.0/0
+2025.03.24 16:44:59,303	INFO	108	org.l2jdevs.loginserver.GameServerThread	GameServer [1] Bartz: Connection lost: Connection reset
+2025.03.24 16:44:59,303	INFO	108	org.l2jdevs.loginserver.GameServerThread	Server [1] Bartz is now set as disconnected

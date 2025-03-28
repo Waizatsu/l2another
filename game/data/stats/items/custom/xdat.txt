@@ -1,0 +1,3 @@
+333001	Legendary Dynasty Armor Chest - Heavy		a,Double-click to obtain a heavy rare armor set.\0	-1	0	0						a,	0	0		a,	0	0	0	0	0	0	0	0	0	0	a,	3
+333011	Legendary Dynasty Armor Chest - Leather		a,Double-click to obtain a leather rare armor set.\0	-1	0	0						a,	0	0		a,	0	0	0	0	0	0	0	0	0	0	a,	3
+333012	Legendary Dynasty Armor Chest - Robe		a,Double-click to obtain a robe rare armor set.\0	-1	0	0						a,	0	0		a,	0	0	0	0	0	0	0	0	0	0	a,	3

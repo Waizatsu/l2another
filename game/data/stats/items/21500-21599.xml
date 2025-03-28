@@ -1,0 +1,1107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="21500" type="EtcItem" name="Kai the Cat Hat Pack - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21501" type="Armor" name="Kai the Cat Hat - 7-day limited period">
+		
+		<set name="icon" val="icon.accessory_chi_the_cat_cap_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair2" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="time" val="10080" />
+	</item>
+	<item id="21502" type="Armor" name="Kai the Cat Hat - 7-day limited period (event)">
+		
+		<set name="icon" val="icon.accessory_chi_the_cat_cap_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair2" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="time" val="10080" />
+	</item>
+	<item id="21503" type="Armor" name="Kai the Cat Hat - 30-day limited period">
+		
+		<set name="icon" val="icon.accessory_chi_the_cat_cap_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair2" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="time" val="43200" />
+	</item>
+	<item id="21504" type="Armor" name="Kai the Cat Hat - 30-day limited period (event)">
+		
+		<set name="icon" val="icon.accessory_chi_the_cat_cap_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair2" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="time" val="43200" />
+	</item>
+	<item id="21505" type="Armor" name="Kai the Cat Hat">
+		
+		<set name="icon" val="icon.accessory_chi_the_cat_cap_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair2" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21506" type="Armor" name="Kai the Cat Hat - Event">
+		
+		<set name="icon" val="icon.accessory_chi_the_cat_cap_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair2" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21507" type="EtcItem" name="Feline Queen Hat 7-Day Pack">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21508" type="EtcItem" name="Feline Queen Hat 7-Day Pack - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21509" type="EtcItem" name="Feline Queen Hat 30-Day Pack">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21510" type="EtcItem" name="Feline Queen Hat 30-Day Pack - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21511" type="EtcItem" name="Feline Queen Hat Pack">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21512" type="EtcItem" name="Feline Queen Hat Pack - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21513" type="Armor" name="Feline Queen Hat - 7-day limited period">
+		
+		<set name="icon" val="icon.accessory_queen_of_cat_cap_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair2" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="time" val="10080" />
+	</item>
+	<item id="21514" type="Armor" name="Feline Queen Hat - 7-day limited period (event)">
+		
+		<set name="icon" val="icon.accessory_queen_of_cat_cap_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair2" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="time" val="10080" />
+	</item>
+	<item id="21515" type="Armor" name="Feline Queen Hat - 30-day limited period">
+		
+		<set name="icon" val="icon.accessory_queen_of_cat_cap_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair2" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="time" val="43200" />
+	</item>
+	<item id="21516" type="Armor" name="Feline Queen Hat - 30-day limited period (event)">
+		
+		<set name="icon" val="icon.accessory_queen_of_cat_cap_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair2" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="time" val="43200" />
+	</item>
+	<item id="21517" type="Armor" name="Feline Queen Hat">
+		
+		<set name="icon" val="icon.accessory_queen_of_cat_cap_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair2" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21518" type="Armor" name="Feline Queen Hat - Event">
+		
+		<set name="icon" val="icon.accessory_queen_of_cat_cap_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair2" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21519" type="EtcItem" name="Feline King Hat 7-Day Pack">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21520" type="EtcItem" name="Feline King Hat 7-Day Pack - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21521" type="EtcItem" name="Feline King Hat 30-Day Pack">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21522" type="EtcItem" name="Feline King Hat 30-Day Pack - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21523" type="EtcItem" name="Feline King Hat Pack">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21524" type="EtcItem" name="Feline King Hat Pack - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21525" type="Armor" name="Feline King Hat - 7-day limited period">
+		
+		<set name="icon" val="icon.accessory_king_of_cat_cap_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair2" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="time" val="10080" />
+	</item>
+	<item id="21526" type="Armor" name="Feline King Hat - 7-day limited period (event)">
+		
+		<set name="icon" val="icon.accessory_king_of_cat_cap_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair2" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="time" val="10080" />
+	</item>
+	<item id="21527" type="Armor" name="Feline King Hat - 30-day limited period">
+		
+		<set name="icon" val="icon.accessory_king_of_cat_cap_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair2" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="time" val="43200" />
+	</item>
+	<item id="21528" type="Armor" name="Feline King Hat - 30-day limited period (event)">
+		
+		<set name="icon" val="icon.accessory_king_of_cat_cap_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair2" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="time" val="43200" />
+	</item>
+	<item id="21529" type="Armor" name="Feline King Hat">
+		
+		<set name="icon" val="icon.accessory_king_of_cat_cap_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair2" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21530" type="Armor" name="Feline King Hat - Event">
+		
+		<set name="icon" val="icon.accessory_king_of_cat_cap_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair2" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21531" type="EtcItem" name="Ribbon Hairband 7-Day Pack">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21532" type="EtcItem" name="Ribbon Hairband 7-Day Pack - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21533" type="EtcItem" name="Ribbon Hairband 30-Day Pack">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21534" type="EtcItem" name="Ribbon Hairband 30-Day Pack - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21535" type="EtcItem" name="Ribbon Hairband Pack">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21536" type="EtcItem" name="Ribbon Hairband Pack - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21537" type="Armor" name="Ribbon Hairband - 7-day limited period">
+		
+		<set name="icon" val="icon.accessory_ev_ribbon_band_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hairall" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="time" val="10080" />
+		<cond msgId="1518">
+			<player sex="0" />
+		</cond>
+	</item>
+	<item id="21538" type="Armor" name="Ribbon Hairband - 7-day limited period (event)">
+		
+		<set name="icon" val="icon.accessory_ev_ribbon_band_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hairall" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="time" val="10080" />
+		<cond msgId="1518">
+			<player sex="0" />
+		</cond>
+	</item>
+	<item id="21539" type="Armor" name="Ribbon Hairband - 30-day limited period">
+		
+		<set name="icon" val="icon.accessory_ev_ribbon_band_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hairall" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="time" val="43200" />
+		<cond msgId="1518">
+			<player sex="0" />
+		</cond>
+	</item>
+	<item id="21540" type="Armor" name="Ribbon Hairband - 30-day limited period (event)">
+		
+		<set name="icon" val="icon.accessory_ev_ribbon_band_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hairall" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="time" val="43200" />
+		<cond msgId="1518">
+			<player sex="0" />
+		</cond>
+	</item>
+	<item id="21541" type="Armor" name="Ribbon Hairband">
+		
+		<set name="icon" val="icon.accessory_ev_ribbon_band_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hairall" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_freightable" val="true" />
+		<cond msgId="1518">
+			<player sex="0" />
+		</cond>
+	</item>
+	<item id="21542" type="Armor" name="Ribbon Hairband - Event">
+		
+		<set name="icon" val="icon.accessory_ev_ribbon_band_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hairall" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_freightable" val="true" />
+		<cond msgId="1518">
+			<player sex="0" />
+		</cond>
+	</item>
+	<item id="21543" type="EtcItem" name="Refined Dapper Cap 7-Day Pack">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21544" type="EtcItem" name="Refined Dapper Cap 7-Day Pack - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21545" type="EtcItem" name="Refined Dapper Cap 30-Day Pack">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21546" type="EtcItem" name="Refined Dapper Cap 30-Day Pack - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21547" type="EtcItem" name="Refined Dapper Cap Pack">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21548" type="EtcItem" name="Refined Dapper Cap Pack - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21549" type="Armor" name="Refined Dapper Cap - 7-day limited period">
+		
+		<set name="icon" val="icon.accessory_dandy_cap2_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hairall" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="time" val="10080" />
+	</item>
+	<item id="21550" type="Armor" name="Refined Dapper Cap - 7-day limited period (event)">
+		
+		<set name="icon" val="icon.accessory_dandy_cap2_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hairall" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="time" val="10080" />
+	</item>
+	<item id="21551" type="Armor" name="Refined Dapper Cap - 30-day limited period">
+		
+		<set name="icon" val="icon.accessory_dandy_cap2_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hairall" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="time" val="43200" />
+	</item>
+	<item id="21552" type="Armor" name="Refined Dapper Cap - 30-day limited period (event)">
+		
+		<set name="icon" val="icon.accessory_dandy_cap2_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hairall" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="time" val="43200" />
+	</item>
+	<item id="21553" type="Armor" name="Refined Dapper Cap">
+		
+		<set name="icon" val="icon.accessory_dandy_cap2_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hairall" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21554" type="Armor" name="Refined Dapper Cap - Event">
+		
+		<set name="icon" val="icon.accessory_dandy_cap2_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hairall" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21555" type="EtcItem" name="Valkyrie Circlet 7-Day Pack">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21556" type="EtcItem" name="Valkyrie Circlet 7-Day Pack - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21557" type="EtcItem" name="Valkyrie Circlet 30-Day Pack">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21558" type="EtcItem" name="Valkyrie Circlet 30-Day Pack - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21559" type="EtcItem" name="Valkyrie Circlet Pack">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21560" type="EtcItem" name="Valkyrie Circlet Pack - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21561" type="Armor" name="Valkyrie Circlet - 7-day limited period">
+		
+		<set name="icon" val="BranchSys.icon.br_valkyrie_cap_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="time" val="10080" />
+	</item>
+	<item id="21562" type="Armor" name="Valkyrie Circlet - 7-day limited period (event)">
+		
+		<set name="icon" val="BranchSys.icon.br_valkyrie_cap_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="time" val="10080" />
+	</item>
+	<item id="21563" type="Armor" name="Valkyrie Circlet - 30-day limited period">
+		
+		<set name="icon" val="BranchSys.icon.br_valkyrie_cap_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="time" val="43200" />
+	</item>
+	<item id="21564" type="Armor" name="Valkyrie Circlet - 30-day limited period (event)">
+		
+		<set name="icon" val="BranchSys.icon.br_valkyrie_cap_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="time" val="43200" />
+	</item>
+	<item id="21565" type="Armor" name="Valkyrie Circlet">
+		
+		<set name="icon" val="BranchSys.icon.br_valkyrie_cap_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21566" type="Armor" name="Valkyrie Circlet - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_valkyrie_cap_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21567" type="EtcItem" name="Plastic Hair 7-Day Pack">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21568" type="EtcItem" name="Plastic Hair 7-Day Pack - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21569" type="EtcItem" name="Plastic Hair 30-Day Pack">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21570" type="EtcItem" name="Plastic Hair 30-Day Pack - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21571" type="EtcItem" name="Plastic Hair Pack">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21572" type="EtcItem" name="Plastic Hair Pack - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21573" type="Armor" name="Plastic Hair - 7-day limited period">
+		
+		<set name="icon" val="BranchSys.icon.br_plastic_hair_f_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hairall" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="time" val="10080" />
+	</item>
+	<item id="21574" type="Armor" name="Plastic Hair - 7-day limited period (event)">
+		
+		<set name="icon" val="BranchSys.icon.br_plastic_hair_f_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hairall" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="time" val="10080" />
+	</item>
+	<item id="21575" type="Armor" name="Plastic Hair - 30-day limited period">
+		
+		<set name="icon" val="BranchSys.icon.br_plastic_hair_f_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hairall" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="time" val="43200" />
+	</item>
+	<item id="21576" type="Armor" name="Plastic Hair - 30-day limited period (event)">
+		
+		<set name="icon" val="BranchSys.icon.br_plastic_hair_f_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hairall" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="time" val="43200" />
+	</item>
+	<item id="21577" type="Armor" name="Plastic Hair">
+		
+		<set name="icon" val="BranchSys.icon.br_plastic_hair_f_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hairall" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21578" type="Armor" name="Plastic Hair - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_plastic_hair_f_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hairall" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21579" type="EtcItem" name="Neolithic Crystal - S84">
+		
+		<set name="icon" val="BranchSys2.icon.etc_warding_orb_gold_i00" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="20" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="21580" type="Armor" name="Olf's T-shirt">
+		
+		<set name="icon" val="BranchSys2.icon.7anni_shirt_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="CRYSTAL" />
+		<set name="weight" val="130" />
+		<set name="enchant_enabled" val="2" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<for>
+			<add order="0" stat="pDef" val="28" />
+		</for>
+	</item>
+	<item id="21581" type="EtcItem" name="Olf's T-shirt Enchant Scroll">
+		
+		<set name="icon" val="BranchSys2.icon.etc_scroll_of_enchant_shirt_i01" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="SCRL_ENCHANT_AM" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="EnchantScrolls" />
+		<set name="item_skill" val="22247-1" />
+	</item>
+	<item id="21582" type="EtcItem" name="Blessed Olf's T-shirt Enchant Scroll">
+		
+		<set name="icon" val="BranchSys2.icon.etc_scroll_of_enchant_shirt_i00" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="SCRL_ENCHANT_AM" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="EnchantScrolls" />
+		<set name="item_skill" val="22248-1" />
+	</item>
+	<item id="21583" type="Armor" name="7th Anniversary Cloak - Pitch Black">
+		
+		<set name="icon" val="BranchSys2.Icon.7anni_cloack_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<cond msgId="2453">
+			<player cloakStatus="true" />
+		</cond>
+		<for>
+			<add order="0" stat="pDef" val="25" />
+		</for>
+	</item>
+	<item id="21584" type="EtcItem" name="Festival's Cloak - Pitch Black">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21585" type="Armor" name="Festival's Cloak - Pitch Black - Event">
+		
+		<set name="icon" val="BranchSys2.Icon.7anni_cloack_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_freightable" val="true" />
+		<cond msgId="2453">
+			<player cloakStatus="true" />
+		</cond>
+		<for>
+			<add order="0" stat="pDef" val="25" />
+		</for>
+	</item>
+	<item id="21586" type="EtcItem" name="Festival's Cloak - Pitch Black - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21587" type="Armor" name="7th Anniversary Cloak - Blood Red">
+		
+		<set name="icon" val="BranchSys2.Icon.7anni_cloack_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<cond msgId="2453">
+			<player cloakStatus="true" />
+		</cond>
+		<for>
+			<add order="0" stat="pDef" val="25" />
+		</for>
+	</item>
+	<item id="21588" type="Armor" name="7th Anniversary Cloak - Pearl White">
+		
+		<set name="icon" val="BranchSys2.Icon.7anni_cloack_i02" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<cond msgId="2453">
+			<player cloakStatus="true" />
+		</cond>
+		<for>
+			<add order="0" stat="pDef" val="25" />
+		</for>
+	</item>
+	<item id="21589" type="EtcItem" name="Festival's Cloak - Pearl White Pack">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21590" type="Armor" name="Festival's Cloak - Pearl White - Event">
+		
+		<set name="icon" val="BranchSys2.Icon.7anni_cloack_i02" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_freightable" val="true" />
+		<cond msgId="2453">
+			<player cloakStatus="true" />
+		</cond>
+		<for>
+			<add order="0" stat="pDef" val="25" />
+		</for>
+	</item>
+	<item id="21591" type="EtcItem" name="Festival's Cloak - Pearl White Pack - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21592" type="EtcItem" name="Magic Defense Accessory 5 Type Pack">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21593" type="EtcItem" name="Ziggo's Jewel">
+		
+		<set name="icon" val="icon.etc_jewel_red_i00" />
+		<set name="material" val="CRYSTAL" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="21594" type="Armor" name="Birthday Hat">
+		
+		<set name="icon" val="icon.accessory_birthday_cap_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair2" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+	</item>
+	<item id="21595" type="EtcItem" name="Birthday Cake">
+		<set name="icon" val="BranchSys.icon.br_birthday_cake_i00" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="POTION" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_premium" val="true" />
+		<set name="handler" val="ItemSkills" />
+		<set name="item_skill" val="22249-1" />
+		<cond msgId="113" addName="1">
+			<player vehicleMounted="false" /> 
+		</cond>
+	</item>
+	<item id="21596" type="EtcItem" name="Blessing Package 100">
+		
+		<set name="icon" val="icon.etc_pi_gift_box_i04" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21597" type="EtcItem" name="Hunting Package 100">
+		
+		<set name="icon" val="icon.etc_pi_gift_box_i04" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21598" type="EtcItem" name="Blessing Package 200">
+		
+		<set name="icon" val="icon.etc_pi_gift_box_i04" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="21599" type="EtcItem" name="Hunting Package 200">
+		
+		<set name="icon" val="icon.etc_pi_gift_box_i04" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+</list>

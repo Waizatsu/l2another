@@ -1,0 +1,18 @@
+mar. 21, 2025 6:52:45 P.M. org.l2jdevs.gameserver.engines.items.DocumentItem parseDocument
+ADVERTENCIA: Cannot create item 73100
+java.util.NoSuchElementException: Unknown name 'bleedRes' for enum BaseStats
+	at org.l2jdevs.gameserver.model.stats.Stats.valueOfXml(Stats.java:216)
+	at org.l2jdevs.gameserver.engines.DocumentBase.attachFunc(DocumentBase.java:253)
+	at org.l2jdevs.gameserver.engines.DocumentBase.parseTemplate(DocumentBase.java:245)
+	at org.l2jdevs.gameserver.engines.DocumentBase.parseTemplate(DocumentBase.java:190)
+	at org.l2jdevs.gameserver.engines.items.DocumentItem.parseItem(DocumentItem.java:134)
+	at org.l2jdevs.gameserver.engines.items.DocumentItem.parseDocument(DocumentItem.java:85)
+	at org.l2jdevs.gameserver.engines.DocumentBase.parse(DocumentBase.java:161)
+	at org.l2jdevs.gameserver.engines.DocumentEngine.loadItems(DocumentEngine.java:124)
+	at org.l2jdevs.gameserver.datatables.ItemTable.load(ItemTable.java:128)
+	at org.l2jdevs.gameserver.datatables.ItemTable.<init>(ItemTable.java:119)
+	at org.l2jdevs.gameserver.datatables.ItemTable$SingletonHolder.<clinit>(ItemTable.java:420)
+	at org.l2jdevs.gameserver.datatables.ItemTable.getInstance(ItemTable.java:114)
+	at org.l2jdevs.gameserver.GameServer.<init>(GameServer.java:208)
+	at org.l2jdevs.gameserver.GameServer.main(GameServer.java:465)
+

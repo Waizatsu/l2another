@@ -1,0 +1,262 @@
+2025.03.19 19:40:10,540	INFO	1	org.l2jdevs.gameserver.GameServer	------------------------------------------------=[ Database ]
+2025.03.19 19:40:10,588	INFO	1	org.l2jdevs.gameserver.dao.factory.impl.DAOFactory	Using MySQL DAO Factory.
+2025.03.19 19:40:10,595	INFO	1	org.l2jdevs.commons.database.pool.impl.ConnectionFactory	Using HikariCP connection pool.
+2025.03.19 19:40:10,595	INFO	1	org.l2jdevs.gameserver.GameServer	GameServer: Used memory: 9MB.
+2025.03.19 19:40:10,598	INFO	1	com.zaxxer.hikari.HikariDataSource	HikariPool-1 - Starting...
+2025.03.19 19:40:10,743	INFO	1	com.zaxxer.hikari.HikariDataSource	HikariPool-1 - Start completed.
+2025.03.19 19:40:10,750	INFO	1	org.l2jdevs.gameserver.idfactory.BitSetIDFactory	Updated characters online status.
+2025.03.19 19:40:10,798	INFO	1	org.l2jdevs.gameserver.idfactory.BitSetIDFactory	Cleaned 0 elements from database in 0 s
+2025.03.19 19:40:10,809	INFO	1	org.l2jdevs.gameserver.idfactory.BitSetIDFactory	Cleaned 0 expired timestamps from database.
+2025.03.19 19:40:10,849	INFO	1	org.l2jdevs.gameserver.idfactory.BitSetIDFactory	BitSetIDFactory: 102912 id's available.
+2025.03.19 19:40:10,858	INFO	1	org.l2jdevs.gameserver.GameServer	---------------------------------------------------=[ World ]
+2025.03.19 19:40:10,864	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	InstanceManager: Multiverse Instance created.
+2025.03.19 19:40:10,864	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	InstanceManager: Universe Instance created.
+2025.03.19 19:40:10,957	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	InstanceManager: Loaded 160 instance names.
+2025.03.19 19:40:10,985	INFO	1	org.l2jdevs.gameserver.model.L2World	L2World: (128 by 136) World Region Grid set up.
+2025.03.19 19:40:11,201	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	MapRegionManager: Loaded 57 map regions.
+2025.03.19 19:40:11,215	INFO	1	org.l2jdevs.gameserver.instancemanager.GlobalVariablesManager	GlobalVariablesManager: Loaded 6 variables.
+2025.03.19 19:40:11,215	INFO	1	org.l2jdevs.gameserver.GameServer	----------------------------------------------------=[ Data ]
+2025.03.19 19:40:11,256	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	CategoryData: Loaded 124 Categories.
+2025.03.19 19:40:11,264	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	SecondaryAuthData: Loaded 328 forbidden passwords.
+2025.03.19 19:40:11,265	INFO	1	org.l2jdevs.gameserver.GameServer	-------------------------------------------------=[ Effects ]
+2025.03.19 19:40:13,128	INFO	1	handlers.EffectMasterHandler	EffectMasterHandler: Loaded 161 effect handlers.
+2025.03.19 19:40:13,129	INFO	1	org.l2jdevs.gameserver.GameServer	------------------------------------=[ Enchant Skill Groups ]
+2025.03.19 19:40:13,142	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	EnchantSkillGroupsData: Loaded 4 groups and 90 routes.
+2025.03.19 19:40:13,142	INFO	1	org.l2jdevs.gameserver.GameServer	---------------------------------------------=[ Skill Trees ]
+2025.03.19 19:40:13,536	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	Loaded 17176 Class Skills for 103 Class Skill Trees.
+2025.03.19 19:40:13,537	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	Loaded 76 Sub-Class Skills.
+2025.03.19 19:40:13,538	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	Loaded 77 Transfer Skills for 3 Transfer Skill Trees.
+2025.03.19 19:40:13,539	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	Loaded 117 Fishing Skills, 8 Dwarven only Fishing Skills.
+2025.03.19 19:40:13,541	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	Loaded 3 Collect Skills.
+2025.03.19 19:40:13,542	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	Loaded 74 Pledge Skills, 44 for Pledge and 30 Residential.
+2025.03.19 19:40:13,543	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	Loaded 18 Sub-Pledge Skills.
+2025.03.19 19:40:13,544	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	Loaded 32 Transform Skills.
+2025.03.19 19:40:13,544	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	Loaded 8 Noble Skills.
+2025.03.19 19:40:13,546	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	Loaded 5 Hero Skills.
+2025.03.19 19:40:13,547	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	Loaded 46 Game Master Skills.
+2025.03.19 19:40:13,548	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	Loaded 46 Game Master Aura Skills.
+2025.03.19 19:40:13,548	INFO	1	org.l2jdevs.gameserver.GameServer	--------------------------------------------------=[ Skills ]
+2025.03.19 19:40:16,688	INFO	1	org.l2jdevs.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 65961 Skill templates from XML files.
+2025.03.19 19:40:16,731	INFO	1	org.l2jdevs.gameserver.data.sql.impl.SummonSkillsTable	SummonSkillsTable: Loaded 1891 skills.
+2025.03.19 19:40:16,731	INFO	1	org.l2jdevs.gameserver.GameServer	---------------------------------------------------=[ Items ]
+2025.03.19 19:40:17,519	INFO	1	org.l2jdevs.gameserver.datatables.ItemTable	ItemTable: Highest item id used:666005
+2025.03.19 19:40:17,525	INFO	1	org.l2jdevs.gameserver.datatables.ItemTable	ItemTable: Loaded: 11481 Etc Items
+2025.03.19 19:40:17,526	INFO	1	org.l2jdevs.gameserver.datatables.ItemTable	ItemTable: Loaded: 3825 Armor Items
+2025.03.19 19:40:17,527	INFO	1	org.l2jdevs.gameserver.datatables.ItemTable	ItemTable: Loaded: 3898 Weapon Items
+2025.03.19 19:40:17,528	INFO	1	org.l2jdevs.gameserver.datatables.ItemTable	ItemTable: Loaded: 19204 Items in total.
+2025.03.19 19:40:17,535	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	EnchantItemGroupsData: Loaded: 4 item group templates.
+2025.03.19 19:40:17,535	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	EnchantItemGroupsData: Loaded: 1 scroll group templates.
+2025.03.19 19:40:17,542	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	EnchantItemData: Loaded 63 Enchant Scrolls.
+2025.03.19 19:40:17,543	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	EnchantItemData: Loaded 20 Support Items.
+2025.03.19 19:40:17,559	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	EnchantItemOptionsData: Loaded: 23 Items and 1093 Options.
+2025.03.19 19:40:18,351	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	OptionData: Loaded: 24985 Options.
+2025.03.19 19:40:18,359	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	EnchantItemHPBonusData: Loaded 6 Enchant HP Bonuses.
+2025.03.19 19:40:18,363	INFO	1	org.l2jdevs.gameserver.datatables.MerchantPriceConfigTable	MerchantPriceConfigTable: Loaded 28 merchant price configs.
+2025.03.19 19:40:19,285	WARNING	1	org.l2jdevs.util.data.xml.IXmlReader	BuyListData: Folder Z:\L2 Another Server\game\data\buylists\custom doesn't exist!
+2025.03.19 19:40:19,285	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	BuyListData: Loaded 760 BuyLists.
+2025.03.19 19:40:19,626	WARNING	1	org.l2jdevs.util.data.xml.IXmlReader	MultisellData: Folder Z:\L2 Another Server\game\data\multisell\custom doesn't exist!
+2025.03.19 19:40:19,641	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	MultisellData: Loaded 194 multisell lists.
+2025.03.19 19:40:19,673	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	RecipeData: Loaded 1000 recipes.
+2025.03.19 19:40:19,708	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	ArmorSetsData: Loaded 198 Armor sets.
+2025.03.19 19:40:19,718	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	FishData: Loaded 278 Fish.
+2025.03.19 19:40:19,721	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	FishingMonstersData: Loaded 8 Fishing Monsters.
+2025.03.19 19:40:19,723	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	FishingRodsData: Loaded 6 Fishing Rods.
+2025.03.19 19:40:19,743	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	HennaData: Loaded 180 Henna data.
+2025.03.19 19:40:19,744	INFO	1	org.l2jdevs.gameserver.GameServer	----------------------------------------------=[ Characters ]
+2025.03.19 19:40:19,749	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	ClassListData: Loaded 107 Class data.
+2025.03.19 19:40:19,752	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	InitialEquipmentData: Loaded 11 Initial Equipment data.
+2025.03.19 19:40:19,756	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	InitialShortcutData: Loaded 5 Initial Global Shortcuts data.
+2025.03.19 19:40:19,756	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	InitialShortcutData: Loaded 4 Initial Shortcuts data.
+2025.03.19 19:40:19,756	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	InitialShortcutData: Loaded 0 Macros presets.
+2025.03.19 19:40:19,788	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	KarmaData: Loaded 85 karma modifiers.
+2025.03.19 19:40:19,790	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	HitConditionBonusData: Loaded Hit Condition bonuses.
+2025.03.19 19:40:20,083	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	PlayerTemplateData: Loaded 103 character templates.
+2025.03.19 19:40:20,084	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	PlayerTemplateData: Loaded 52530 level up gain records.
+2025.03.19 19:40:20,089	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	PlayerCreationPointData: Loaded 62 character creation points.
+2025.03.19 19:40:20,092	INFO	1	org.l2jdevs.gameserver.data.sql.impl.CharNameTable	CharNameTable: Loaded 1 char names.
+2025.03.19 19:40:20,096	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	AdminData: Loaded: 10 Access Levels.
+2025.03.19 19:40:20,102	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	AdminData: Loaded: 444 Access Commands.
+2025.03.19 19:40:20,104	INFO	1	org.l2jdevs.gameserver.instancemanager.RaidBossPointsManager	RaidBossPointsManager: Loaded 0 Character Raid Points.
+2025.03.19 19:40:20,388	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	PetDataTable: Loaded 52 Pets.
+2025.03.19 19:40:20,395	INFO	1	org.l2jdevs.gameserver.GameServer	-----------------------------------------------=[ Languages ]
+2025.03.19 19:40:20,399	INFO	1	org.l2jdevs.gameserver.datatables.LanguageData	Loaded language file: EN with 204 messages.
+2025.03.19 19:40:20,401	INFO	1	org.l2jdevs.gameserver.datatables.LanguageData	Loaded language file: ES with 204 messages.
+2025.03.19 19:40:20,404	INFO	1	org.l2jdevs.gameserver.datatables.LanguageData	Loaded language file: RU with 204 messages.
+2025.03.19 19:40:20,404	INFO	1	org.l2jdevs.gameserver.datatables.LanguageData	LanguageData: Loaded 3 languages.
+2025.03.19 19:40:20,404	INFO	1	org.l2jdevs.gameserver.GameServer	---------------------------------------------------=[ Clans ]
+2025.03.19 19:40:20,419	INFO	1	org.l2jdevs.gameserver.communitybbs.Manager.ForumsBBSManager	Loaded 4 forums. Last forum id used: 4
+2025.03.19 19:40:20,420	INFO	1	org.l2jdevs.gameserver.data.sql.impl.ClanTable	ClanTable: Restored 0 clans from the database.
+2025.03.19 19:40:20,428	INFO	1	org.l2jdevs.gameserver.instancemanager.CHSiegeManager	CHSiegeManager: Loaded 6 conquerable clan halls.
+2025.03.19 19:40:20,483	INFO	1	org.l2jdevs.gameserver.instancemanager.AuctionManager	AuctionManager: Loaded: 38 auction(s)
+2025.03.19 19:40:20,485	INFO	1	org.l2jdevs.gameserver.instancemanager.ClanHallManager	ClanHallManager: Loaded: 0 clan halls
+2025.03.19 19:40:20,486	INFO	1	org.l2jdevs.gameserver.instancemanager.ClanHallManager	ClanHallManager: Loaded: 38 free clan halls
+2025.03.19 19:40:20,487	INFO	1	org.l2jdevs.gameserver.GameServer	-------------------------------------------------=[ Geodata ]
+2025.03.19 19:40:20,548	INFO	1	org.l2jdevs.gameserver.GeoData	GeoData: Loaded 0 regions.
+2025.03.19 19:40:20,549	INFO	1	org.l2jdevs.gameserver.GameServer	----------------------------------------------------=[ NPCs ]
+2025.03.19 19:40:20,557	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	SkillLearnData: Loaded 256 Skill Learn data.
+2025.03.19 19:40:20,568	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	MinionData: Loaded 128 minions data.
+2025.03.19 19:40:22,531	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	NpcData: Loaded 10461 NPCs.
+2025.03.19 19:40:22,536	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	NpcData: Loaded 11 custom NPCs.
+2025.03.19 19:40:22,672	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	WalkingManager: Loaded 123 walking routes.
+2025.03.19 19:40:22,684	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	StaticObjectData: Loaded 51 static object templates.
+2025.03.19 19:40:23,012	INFO	1	org.l2jdevs.gameserver.instancemanager.GrandBossManager	GrandBossManager: Queen Ant(29001) status is 0.
+2025.03.19 19:40:23,013	INFO	1	org.l2jdevs.gameserver.instancemanager.GrandBossManager	GrandBossManager: Core(29006) status is 0.
+2025.03.19 19:40:23,017	INFO	1	org.l2jdevs.gameserver.instancemanager.GrandBossManager	GrandBossManager: Orfen(29014) status is 0.
+2025.03.19 19:40:23,018	INFO	1	org.l2jdevs.gameserver.instancemanager.GrandBossManager	GrandBossManager: Baium(29020) status is 0.
+2025.03.19 19:40:23,019	INFO	1	org.l2jdevs.gameserver.instancemanager.GrandBossManager	GrandBossManager: Valakas(29028) status is 0.
+2025.03.19 19:40:23,020	INFO	1	org.l2jdevs.gameserver.instancemanager.GrandBossManager	GrandBossManager: Antharas(29068) status is 0.
+2025.03.19 19:40:23,021	INFO	1	org.l2jdevs.gameserver.instancemanager.GrandBossManager	GrandBossManager: Beleth(29118) status is 0.
+2025.03.19 19:40:23,021	INFO	1	org.l2jdevs.gameserver.instancemanager.GrandBossManager	GrandBossManager: Loaded 7 Instances
+2025.03.19 19:40:23,617	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	DoorData: Loaded 1301 Door templates for 22 regions.
+2025.03.19 19:40:25,166	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	ZoneManager: Loaded 28 zone classes and 2795 zones.
+2025.03.19 19:40:25,166	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	ZoneManager: Loaded 0 NPC spawn territoriers.
+2025.03.19 19:40:25,199	INFO	1	org.l2jdevs.gameserver.instancemanager.CastleManager	CastleManager: Loaded: 9 castles
+2025.03.19 19:40:25,204	INFO	1	org.l2jdevs.gameserver.data.sql.impl.NpcBufferTable	NpcBufferTable: Loaded 2 buffers and 64 skills.
+2025.03.19 19:40:25,205	INFO	1	org.l2jdevs.gameserver.instancemanager.GrandBossManager	GrandBossManager: Initialized 12 Grand Boss Zones
+2025.03.19 19:40:25,207	INFO	1	org.l2jdevs.gameserver.GameServer	-----------------------------------------=[ Auction Manager ]
+2025.03.19 19:40:25,220	INFO	1	org.l2jdevs.gameserver.model.itemauction.ItemAuctionInstance	Loaded 82 item(s) and registered 1 auction(s) for NPC ID 32320.
+2025.03.19 19:40:25,221	INFO	1	org.l2jdevs.gameserver.model.itemauction.ItemAuctionInstance	Schedule next auction ID 1 on 17:00:00 21.03.25 for NPC ID 32320.
+2025.03.19 19:40:25,226	INFO	1	org.l2jdevs.gameserver.model.itemauction.ItemAuctionInstance	Loaded 82 item(s) and registered 2 auction(s) for NPC ID 32321.
+2025.03.19 19:40:25,227	INFO	1	org.l2jdevs.gameserver.model.itemauction.ItemAuctionInstance	Schedule next auction ID 4 on 17:00:00 24.03.25 for NPC ID 32321.
+2025.03.19 19:40:25,232	INFO	1	org.l2jdevs.gameserver.model.itemauction.ItemAuctionInstance	Loaded 82 item(s) and registered 2 auction(s) for NPC ID 32322.
+2025.03.19 19:40:25,234	INFO	1	org.l2jdevs.gameserver.model.itemauction.ItemAuctionInstance	Schedule current auction ID 3 for NPC ID 32322.
+2025.03.19 19:40:25,235	INFO	1	org.l2jdevs.gameserver.instancemanager.ItemAuctionManager	Loaded 3 auction manager instance(s).
+2025.03.19 19:40:25,236	INFO	1	org.l2jdevs.gameserver.GameServer	------------------------------------------------=[ Olympiad ]
+2025.03.19 19:40:25,243	INFO	1	org.l2jdevs.gameserver.model.olympiad.Olympiad	Olympiad System: Loading Olympiad System....
+2025.03.19 19:40:25,244	INFO	1	org.l2jdevs.gameserver.model.olympiad.Olympiad	Olympiad System: Currently in Olympiad Period
+2025.03.19 19:40:25,245	INFO	1	org.l2jdevs.gameserver.model.olympiad.Olympiad	Olympiad System: 18259 minutes until period ends
+2025.03.19 19:40:25,246	INFO	1	org.l2jdevs.gameserver.model.olympiad.Olympiad	Olympiad System: Next weekly change is in 4428 minutes
+2025.03.19 19:40:25,247	INFO	1	org.l2jdevs.gameserver.model.olympiad.Olympiad	Olympiad System: Loaded 0 Nobles
+2025.03.19 19:40:25,250	INFO	1	org.l2jdevs.gameserver.model.olympiad.Olympiad	Olympiad System: Competition Period Starts in 0 days, 0 hours and 0 mins.
+2025.03.19 19:40:25,258	INFO	1	org.l2jdevs.gameserver.model.olympiad.Olympiad	Olympiad System: Event starts/started : Wed Mar 19 18:00:25 CLST 2025
+2025.03.19 19:40:25,263	INFO	1	org.l2jdevs.gameserver.model.entity.Hero	Hero System: Loaded 0 Heroes.
+2025.03.19 19:40:25,264	INFO	1	org.l2jdevs.gameserver.model.entity.Hero	Hero System: Loaded 0 all time Heroes.
+2025.03.19 19:40:25,264	INFO	1	org.l2jdevs.gameserver.GameServer	---------------------------------------------=[ Seven Signs ]
+2025.03.19 19:40:25,270	INFO	1	org.l2jdevs.gameserver.SevenSigns	SevenSigns: Currently in the Seal Validation period.
+2025.03.19 19:40:25,271	INFO	1	org.l2jdevs.gameserver.SevenSigns	SevenSigns: The Seal of Avarice remains unclaimed.
+2025.03.19 19:40:25,272	INFO	1	org.l2jdevs.gameserver.SevenSigns	SevenSigns: The Seal of Gnosis remains unclaimed.
+2025.03.19 19:40:25,272	INFO	1	org.l2jdevs.gameserver.SevenSigns	SevenSigns: The Seal of Strife remains unclaimed.
+2025.03.19 19:40:25,273	INFO	1	org.l2jdevs.gameserver.SevenSigns	SevenSigns: The competition ended with a tie last week.
+2025.03.19 19:40:25,274	INFO	1	org.l2jdevs.gameserver.SevenSigns	SevenSigns: Next period change set to Mon Mar 24 18:00:25 CLST 2025.
+2025.03.19 19:40:25,275	INFO	1	org.l2jdevs.gameserver.SevenSigns	SevenSigns: Next period begins in 4 days, 22 hours and 19 mins.
+2025.03.19 19:40:25,276	INFO	1	org.l2jdevs.gameserver.GameServer	---------------------------------------------------=[ Cache ]
+2025.03.19 19:40:25,277	INFO	1	org.l2jdevs.gameserver.cache.HtmCache	Cache[HTML]: Running lazy cache
+2025.03.19 19:40:25,286	INFO	1	org.l2jdevs.gameserver.data.sql.impl.CrestTable	CrestTable: Loaded 0 Crests.
+2025.03.19 19:40:25,295	INFO	1	org.l2jdevs.gameserver.data.sql.impl.TeleportLocationTable	TeleportLocationTable: Loaded 1139 Teleport Location Templates.
+2025.03.19 19:40:25,299	INFO	1	org.l2jdevs.gameserver.data.sql.impl.TeleportLocationTable	TeleportLocationTable: Loaded 149 Custom Teleport Location Templates.
+2025.03.19 19:40:25,303	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	UIData: Loaded 4 keys 5 categories.
+2025.03.19 19:40:25,342	INFO	45	org.l2jdevs.gameserver.model.olympiad.Olympiad	Olympiad System: Olympiad Game Started
+2025.03.19 19:40:25,349	INFO	45	org.l2jdevs.gameserver.model.olympiad.OlympiadGameManager	Olympiad System: Loaded 160 stadiums.
+2025.03.19 19:40:25,384	INFO	1	org.l2jdevs.gameserver.datatables.AugmentationData	AugmentationData: Loaded: 33960 augmentations.
+2025.03.19 19:40:25,385	INFO	1	org.l2jdevs.gameserver.datatables.AugmentationData	AugmentationData: Loaded: 2754 accessory augmentations.
+2025.03.19 19:40:25,392	INFO	1	org.l2jdevs.gameserver.instancemanager.CursedWeaponsManager	CursedWeaponsManager: Loaded : 2 cursed weapon(s).
+2025.03.19 19:40:25,762	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	TransformData: Loaded: 111 transform templates.
+2025.03.19 19:40:25,769	INFO	1	org.l2jdevs.gameserver.datatables.BotReportTable	BotReportTable: Loaded 0 bot reports
+2025.03.19 19:40:25,770	INFO	1	org.l2jdevs.gameserver.GameServer	-------------------------------------------------=[ Scripts ]
+2025.03.19 19:40:25,779	INFO	1	org.l2jdevs.gameserver.instancemanager.AirShipManager	AirShipManager: Loaded 0 private airships
+2025.03.19 19:40:35,188	INFO	1	org.l2jdevs.gameserver.model.entity.clanhall.ClanHallSiegeEngine	Beast Farm siege scheduled for Sat Mar 29 12:00:00 CLST 2025.
+2025.03.19 19:40:35,222	INFO	1	org.l2jdevs.gameserver.model.entity.clanhall.ClanHallSiegeEngine	Bandit StrongHold siege scheduled for Sat Mar 29 12:00:00 CLST 2025.
+2025.03.19 19:40:35,249	INFO	1	quests.TerritoryWarScripts.TerritoryWarSuperClass	TerritoryWarSuperClass: Siege date: Sun Mar 23 22:00:00 CLST 2025
+2025.03.19 19:40:35,268	INFO	1	handlers.EffectMasterHandler	EffectMasterHandler: Loaded 161 effect handlers.
+2025.03.19 19:40:35,302	INFO	1	org.l2jdevs.gameserver.model.events.AbstractScript	Fantasy Isle: Parade starting at 2025/03/19 21:20 and is scheduled each next 1 hours.
+2025.03.19 19:40:35,303	INFO	1	org.l2jdevs.gameserver.model.entity.clanhall.ClanHallSiegeEngine	Fortress of Resistance siege scheduled for Sat Mar 29 12:00:00 CLST 2025.
+2025.03.19 19:40:35,315	INFO	1	hellbound.HellboundLoader	HellboundLoader: Loading Hellbound related scripts:
+2025.03.19 19:40:35,318	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	HellboundPointData: Loaded 47 trust point reward data.
+2025.03.19 19:40:35,335	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	HellboundSpawns: Loaded 598 Hellbound spawns.
+2025.03.19 19:40:35,337	INFO	1	org.l2jdevs.gameserver.model.events.AbstractScript	HellboundEngine: Level: 0
+2025.03.19 19:40:35,337	INFO	1	org.l2jdevs.gameserver.model.events.AbstractScript	HellboundEngine: Trust: 0
+2025.03.19 19:40:35,338	INFO	1	org.l2jdevs.gameserver.model.events.AbstractScript	HellboundEngine: Status: locked.
+2025.03.19 19:40:35,390	INFO	1	org.l2jdevs.gameserver.instancemanager.RaidBossSpawnManager	RaidBossSpawnManager: Loaded 187 Instances
+2025.03.19 19:40:35,391	INFO	1	org.l2jdevs.gameserver.instancemanager.RaidBossSpawnManager	RaidBossSpawnManager: Scheduled 0 Instances
+2025.03.19 19:40:35,538	INFO	1	org.l2jdevs.gameserver.model.events.AbstractScript	[EnhanceYourWeapon] Loaded 54 Soul Crystal data.
+2025.03.19 19:40:35,538	INFO	1	org.l2jdevs.gameserver.model.events.AbstractScript	[EnhanceYourWeapon] Loaded 240 npc Leveling info data.
+2025.03.19 19:40:35,589	INFO	1	gracia.GraciaLoader	GraciaLoader: Loading Gracia related scripts.
+2025.03.19 19:40:35,622	INFO	1	-	-----------------------------------=[ [L2JDevs] Mods Engine ]
+2025.03.19 19:40:35,622	INFO	1	ModsManager	Starting the Mod Engine.
+2025.03.19 19:40:35,623	INFO	1	ModsManager	Creating structure.
+2025.03.19 19:40:35,631	INFO	1	ModSqlTable	Database successfully loaded!
+2025.03.19 19:40:35,634	INFO	1	GrandFatherMod	Admin engine commands loaded!
+2025.03.19 19:40:35,643	INFO	1	ModsLoader	-> The mod TemplateMod is disabled.
+2025.03.19 19:40:35,643	INFO	1	GrandFatherMod	Grand Father Mod working!
+2025.03.19 19:40:35,644	INFO	1	ModsManager	Mods Engine successfully loaded!
+2025.03.19 19:40:35,646	INFO	1	-	-----------------------------------=[ [L2JDevs] Mods Engine ]
+2025.03.19 19:40:35,655	INFO	1	org.l2jdevs.gameserver.model.entity.clanhall.ClanHallSiegeEngine	Rainbow Springs siege scheduled for Sat Mar 29 12:00:00 CLST 2025.
+2025.03.19 19:40:35,685	INFO	1	handlers.MasterHandler	Loading Handlers...
+2025.03.19 19:40:35,686	INFO	1	handlers.MasterHandler	VoicedCommandHandler: Loaded 5 handlers.
+2025.03.19 19:40:35,688	INFO	1	handlers.MasterHandler	ActionHandler: Loaded 10 handlers.
+2025.03.19 19:40:35,690	INFO	1	handlers.MasterHandler	ActionShiftHandler: Loaded 6 handlers.
+2025.03.19 19:40:35,700	INFO	1	handlers.MasterHandler	AdminCommandHandler: Loaded 454 handlers.
+2025.03.19 19:40:35,705	INFO	1	handlers.MasterHandler	BypassHandler: Loaded 48 handlers.
+2025.03.19 19:40:35,706	INFO	1	handlers.MasterHandler	ChatHandler: Loaded 14 handlers.
+2025.03.19 19:40:35,708	INFO	1	handlers.MasterHandler	CommunityBoardHandler: Loaded 15 handlers.
+2025.03.19 19:40:35,711	INFO	1	handlers.MasterHandler	ItemHandler: Loaded 31 handlers.
+2025.03.19 19:40:35,712	INFO	1	handlers.MasterHandler	PunishmentHandler: Loaded 3 handlers.
+2025.03.19 19:40:35,715	INFO	1	handlers.MasterHandler	UserCommandHandler: Loaded 17 handlers.
+2025.03.19 19:40:35,717	INFO	1	handlers.MasterHandler	TargetHandler: Loaded 37 handlers.
+2025.03.19 19:40:35,719	INFO	1	handlers.MasterHandler	TelnetHandler: Loaded 20 handlers.
+2025.03.19 19:40:35,719	INFO	1	handlers.MasterHandler	Handlers Loaded...
+2025.03.19 19:40:35,725	INFO	1	org.l2jdevs.gameserver.model.entity.clanhall.ClanHallSiegeEngine	Fortresss of the Dead siege scheduled for Sat Mar 29 12:00:00 CLST 2025.
+2025.03.19 19:40:35,729	INFO	1	org.l2jdevs.gameserver.model.entity.clanhall.ClanHallSiegeEngine	Devastated Castle siege scheduled for Sat Mar 29 12:00:00 CLST 2025.
+2025.03.19 19:40:35,748	INFO	1	org.l2jdevs.gameserver.model.events.AbstractScript	Handy's Block Checker Event is enabled
+2025.03.19 19:40:35,755	INFO	1	instances.InstanceLoader	InstanceLoader: Loading Instances scripts.
+2025.03.19 19:40:35,781	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	NpcBuffersData: Loaded: 33 buffers data.
+2025.03.19 19:40:36,948	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	SpawnTable: Loaded 3765 npc spawns.
+2025.03.19 19:40:36,953	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	SpawnTable: Loaded 1 custom npc spawns.
+2025.03.19 19:40:37,008	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	SpawnTable: Loaded 1190 npc spawns from XML.
+2025.03.19 19:40:37,011	INFO	1	org.l2jdevs.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 0 night creatures
+2025.03.19 19:40:37,016	INFO	1	org.l2jdevs.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 232 day creatures
+2025.03.19 19:40:37,020	INFO	1	org.l2jdevs.gameserver.instancemanager.FourSepulchersManager	FourSepulchersManager: loaded 20 Mysterious-Box spawns.
+2025.03.19 19:40:37,042	INFO	1	org.l2jdevs.gameserver.instancemanager.FourSepulchersManager	FourSepulchersManager: loaded 716 Physical type monsters spawns.
+2025.03.19 19:40:37,083	INFO	1	org.l2jdevs.gameserver.instancemanager.FourSepulchersManager	FourSepulchersManager: loaded 716 Magical type monsters spawns.
+2025.03.19 19:40:37,089	INFO	1	org.l2jdevs.gameserver.instancemanager.FourSepulchersManager	FourSepulchersManager: loaded 92 Church of duke monsters spawns.
+2025.03.19 19:40:37,096	INFO	1	org.l2jdevs.gameserver.instancemanager.FourSepulchersManager	FourSepulchersManager: loaded 68 Emperor's grave NPC spawns.
+2025.03.19 19:40:37,097	INFO	1	org.l2jdevs.gameserver.instancemanager.FourSepulchersManager	FourSepulchersManager: spawned Conquerors' Sepulcher Manager
+2025.03.19 19:40:37,098	INFO	1	org.l2jdevs.gameserver.instancemanager.FourSepulchersManager	FourSepulchersManager: spawned Emperors' Sepulcher Manager
+2025.03.19 19:40:37,100	INFO	1	org.l2jdevs.gameserver.instancemanager.FourSepulchersManager	FourSepulchersManager: spawned Great Sages' Sepulcher Manager
+2025.03.19 19:40:37,101	INFO	1	org.l2jdevs.gameserver.instancemanager.FourSepulchersManager	FourSepulchersManager: spawned Judges' Sepulcher Manager
+2025.03.19 19:40:37,102	INFO	1	org.l2jdevs.gameserver.instancemanager.FourSepulchersManager	FourSepulchersManager: Beginning in Attack time
+2025.03.19 19:40:37,106	INFO	1	org.l2jdevs.gameserver.instancemanager.DimensionalRiftManager	DimensionalRiftManager: Loaded 7 room types with 56 rooms.
+2025.03.19 19:40:37,111	INFO	1	org.l2jdevs.gameserver.instancemanager.DimensionalRiftManager	DimensionalRiftManager: Loaded 462 dimensional rift spawns, 0 errors.
+2025.03.19 19:40:37,111	INFO	1	org.l2jdevs.gameserver.GameServer	---------------------------------------------------=[ Siege ]
+2025.03.19 19:40:37,119	INFO	1	org.l2jdevs.gameserver.model.entity.Siege	Siege of Gludio: Sun Mar 23 16:00:00 CLST 2025
+2025.03.19 19:40:37,121	INFO	1	org.l2jdevs.gameserver.model.entity.Siege	Siege of Dion: Sun Mar 23 16:00:00 CLST 2025
+2025.03.19 19:40:37,122	INFO	1	org.l2jdevs.gameserver.model.entity.Siege	Siege of Giran: Sun Mar 23 16:00:00 CLST 2025
+2025.03.19 19:40:37,123	INFO	1	org.l2jdevs.gameserver.model.entity.Siege	Siege of Oren: Sun Mar 23 16:00:00 CLST 2025
+2025.03.19 19:40:37,127	INFO	1	org.l2jdevs.gameserver.model.entity.Siege	Siege of Aden: Sun Mar 23 16:00:00 CLST 2025
+2025.03.19 19:40:37,128	INFO	1	org.l2jdevs.gameserver.model.entity.Siege	Siege of Innadril: Sun Mar 23 20:00:00 CLST 2025
+2025.03.19 19:40:37,129	INFO	1	org.l2jdevs.gameserver.model.entity.Siege	Siege of Goddard: Sun Mar 23 20:00:00 CLST 2025
+2025.03.19 19:40:37,131	INFO	1	org.l2jdevs.gameserver.model.entity.Siege	Siege of Rune: Sun Mar 23 20:00:00 CLST 2025
+2025.03.19 19:40:37,132	INFO	1	org.l2jdevs.gameserver.model.entity.Siege	Siege of Schuttgart: Sun Mar 23 20:00:00 CLST 2025
+2025.03.19 19:40:37,239	INFO	1	org.l2jdevs.gameserver.instancemanager.FortManager	FortManager: Loaded: 21 fortress
+2025.03.19 19:40:37,325	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	SiegeScheduleData: Loaded: 2 siege schedulers.
+2025.03.19 19:40:37,333	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	CastleManorManager: Loaded 258 seeds.
+2025.03.19 19:40:37,339	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	CastleManorManager: Manor data loaded.
+2025.03.19 19:40:37,341	INFO	1	org.l2jdevs.gameserver.instancemanager.MercTicketManager	MercTicketManager: Loaded: 0 Mercenary Tickets
+2025.03.19 19:40:37,342	INFO	1	org.l2jdevs.gameserver.instancemanager.QuestManager	QuestManager: Loaded: 522 quests.
+2025.03.19 19:40:37,342	INFO	1	org.l2jdevs.gameserver.instancemanager.QuestManager	QuestManager: Loaded: 277 scripts.
+2025.03.19 19:40:37,385	INFO	1	org.l2jdevs.gameserver.SevenSignsFestival	SevenSignsFestival: Initialization bypassed due to Seal Validation in effect.
+2025.03.19 19:40:37,392	INFO	1	org.l2jdevs.gameserver.script.faenor.FaenorEventParser	Event ID: (Valentines Event) has passed... Ignored.
+2025.03.19 19:40:37,392	INFO	1	org.l2jdevs.gameserver.script.faenor.FaenorScriptEngine	FaenorScriptEngine: Loaded  Valentines.xml successfully.
+2025.03.19 19:40:37,392	INFO	1	org.l2jdevs.gameserver.GameServer	AutoSpawnHandler: Loaded 129 handlers in total.
+2025.03.19 19:40:37,403	INFO	1	org.l2jdevs.gameserver.taskmanager.TaskManager	TaskManager: Loaded: 13 Tasks
+2025.03.19 19:40:37,406	INFO	1	org.l2jdevs.gameserver.instancemanager.MailManager	MailManager: Successfully loaded 0 messages.
+2025.03.19 19:40:37,409	INFO	1	org.l2jdevs.gameserver.instancemanager.PunishmentManager	PunishmentManager: Loaded 0 active and 0 expired punishments.
+2025.03.19 19:40:37,410	INFO	1	org.l2jdevs.gameserver.GameServer	IdFactory: Free ObjectID's remaining: 1879002868
+2025.03.19 19:40:37,411	INFO	1	org.l2jdevs.gameserver.model.entity.TvTManager	TvTEventEngine[TvTManager.TvTManager()]: Engine is disabled.
+2025.03.19 19:40:37,413	INFO	1	org.l2jdevs.gameserver.data.sql.impl.OfflineTradersTable	OfflineTradersTable: Loading offline traders...
+2025.03.19 19:40:37,414	INFO	1	org.l2jdevs.gameserver.data.sql.impl.OfflineTradersTable	OfflineTradersTable: Loaded: 0 offline trader(s)
+2025.03.19 19:40:37,663	INFO	1	org.l2jdevs.gameserver.GameServer	GameServer: Started, free memory 1592 Mb of 2048 Mb
+2025.03.19 19:40:37,704	INFO	89	org.l2jdevs.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2025.03.19 19:40:37,757	INFO	89	org.l2jdevs.gameserver.LoginServerThread	Registered on login as Server 1: Bartz
+2025.03.19 19:40:37,802	INFO	1	org.l2jdevs.gameserver.GameServer	GameServer: is now listening on: *:7777
+2025.03.19 19:40:37,802	INFO	1	org.l2jdevs.gameserver.GameServer	GameServer: Maximum numbers of connected players: 500
+2025.03.19 19:40:37,804	INFO	1	org.l2jdevs.gameserver.GameServer	GameServer: Server loaded in 27 seconds.
+2025.03.19 19:40:37,806	INFO	1	org.l2jdevs.gameserver.GameServer	----------------------------------------------------=[ UPnP ]
+2025.03.19 19:40:37,808	INFO	1	org.l2jdevs.UPnPService	Looking for UPnP Gateway Devices...
+2025.03.19 19:40:38,172	INFO	1	org.l2jdevs.UPnPService	Using UPnP gateway: S7
+2025.03.19 19:40:38,183	INFO	1	org.l2jdevs.UPnPService	Using local address: 192.168.68.107 External address: 192.168.100.242
+2025.03.19 19:40:38,220	INFO	1	org.l2jdevs.UPnPService	Mapping successful on 192.168.68.107:7777
+2025.03.19 19:40:38,221	INFO	1	org.l2jdevs.gameserver.GameServer	GameServer: Telnet server is currently disabled.
+2025.03.19 19:40:43,860	INFO	57	org.l2jdevs.gameserver.model.actor.instance.L2PcInstance	Master access level set for character Meryem.
+2025.03.19 19:43:36,172	INFO	59	org.l2jdevs.gameserver.model.actor.instance.L2PcInstance	Master access level set for character Meryem.
+2025.03.19 19:48:57,425	INFO	43	org.l2jdevs.gameserver.instancemanager.GlobalVariablesManager	GlobalVariablesManager: Stored 6 variables.

@@ -1,0 +1,101 @@
+2025.03.22 18:31:51,986	INFO	1	org.l2jdevs.gameserver.GameServer	------------------------------------------------=[ Database ]
+2025.03.22 18:31:52,032	INFO	1	org.l2jdevs.gameserver.dao.factory.impl.DAOFactory	Using MySQL DAO Factory.
+2025.03.22 18:31:52,048	INFO	1	org.l2jdevs.commons.database.pool.impl.ConnectionFactory	Using HikariCP connection pool.
+2025.03.22 18:31:52,048	INFO	1	org.l2jdevs.gameserver.GameServer	GameServer: Used memory: 9MB.
+2025.03.22 18:31:52,048	INFO	1	com.zaxxer.hikari.HikariDataSource	HikariPool-1 - Starting...
+2025.03.22 18:31:52,208	INFO	1	com.zaxxer.hikari.HikariDataSource	HikariPool-1 - Start completed.
+2025.03.22 18:31:52,224	INFO	1	org.l2jdevs.gameserver.idfactory.BitSetIDFactory	Updated characters online status.
+2025.03.22 18:31:52,302	INFO	1	org.l2jdevs.gameserver.idfactory.BitSetIDFactory	Cleaned 0 elements from database in 0 s
+2025.03.22 18:31:52,318	INFO	1	org.l2jdevs.gameserver.idfactory.BitSetIDFactory	Cleaned 0 expired timestamps from database.
+2025.03.22 18:31:52,348	INFO	1	org.l2jdevs.gameserver.idfactory.BitSetIDFactory	BitSetIDFactory: 102912 id's available.
+2025.03.22 18:31:52,363	INFO	1	org.l2jdevs.gameserver.GameServer	---------------------------------------------------=[ World ]
+2025.03.22 18:31:52,383	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	InstanceManager: Multiverse Instance created.
+2025.03.22 18:31:52,383	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	InstanceManager: Universe Instance created.
+2025.03.22 18:31:52,473	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	InstanceManager: Loaded 160 instance names.
+2025.03.22 18:31:52,488	INFO	1	org.l2jdevs.gameserver.model.L2World	L2World: (128 by 136) World Region Grid set up.
+2025.03.22 18:31:52,688	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	MapRegionManager: Loaded 57 map regions.
+2025.03.22 18:31:52,700	INFO	1	org.l2jdevs.gameserver.instancemanager.GlobalVariablesManager	GlobalVariablesManager: Loaded 6 variables.
+2025.03.22 18:31:52,700	INFO	1	org.l2jdevs.gameserver.GameServer	----------------------------------------------------=[ Data ]
+2025.03.22 18:31:52,731	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	CategoryData: Loaded 124 Categories.
+2025.03.22 18:31:52,738	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	SecondaryAuthData: Loaded 328 forbidden passwords.
+2025.03.22 18:31:52,739	INFO	1	org.l2jdevs.gameserver.GameServer	-------------------------------------------------=[ Effects ]
+2025.03.22 18:31:54,479	INFO	1	handlers.EffectMasterHandler	EffectMasterHandler: Loaded 161 effect handlers.
+2025.03.22 18:31:54,479	INFO	1	org.l2jdevs.gameserver.GameServer	------------------------------------=[ Enchant Skill Groups ]
+2025.03.22 18:31:54,493	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	EnchantSkillGroupsData: Loaded 4 groups and 90 routes.
+2025.03.22 18:31:54,493	INFO	1	org.l2jdevs.gameserver.GameServer	---------------------------------------------=[ Skill Trees ]
+2025.03.22 18:31:54,860	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	Loaded 17176 Class Skills for 103 Class Skill Trees.
+2025.03.22 18:31:54,860	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	Loaded 76 Sub-Class Skills.
+2025.03.22 18:31:54,861	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	Loaded 77 Transfer Skills for 3 Transfer Skill Trees.
+2025.03.22 18:31:54,861	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	Loaded 117 Fishing Skills, 8 Dwarven only Fishing Skills.
+2025.03.22 18:31:54,862	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	Loaded 3 Collect Skills.
+2025.03.22 18:31:54,862	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	Loaded 74 Pledge Skills, 44 for Pledge and 30 Residential.
+2025.03.22 18:31:54,862	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	Loaded 18 Sub-Pledge Skills.
+2025.03.22 18:31:54,863	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	Loaded 32 Transform Skills.
+2025.03.22 18:31:54,863	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	Loaded 8 Noble Skills.
+2025.03.22 18:31:54,864	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	Loaded 5 Hero Skills.
+2025.03.22 18:31:54,864	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	Loaded 46 Game Master Skills.
+2025.03.22 18:31:54,865	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	Loaded 46 Game Master Aura Skills.
+2025.03.22 18:31:54,865	INFO	1	org.l2jdevs.gameserver.GameServer	--------------------------------------------------=[ Skills ]
+2025.03.22 18:31:57,806	INFO	1	org.l2jdevs.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 65963 Skill templates from XML files.
+2025.03.22 18:31:57,842	INFO	1	org.l2jdevs.gameserver.data.sql.impl.SummonSkillsTable	SummonSkillsTable: Loaded 1891 skills.
+2025.03.22 18:31:57,843	INFO	1	org.l2jdevs.gameserver.GameServer	---------------------------------------------------=[ Items ]
+2025.03.22 18:31:58,703	WARNING	1	org.l2jdevs.gameserver.engines.items.DocumentItem	Cannot create item 57001
+2025.03.22 18:31:58,706	WARNING	1	org.l2jdevs.gameserver.engines.items.DocumentItem	Cannot create item 57006
+2025.03.22 18:31:58,707	WARNING	1	org.l2jdevs.gameserver.engines.items.DocumentItem	Cannot create item 57011
+2025.03.22 18:31:58,713	INFO	1	org.l2jdevs.gameserver.datatables.ItemTable	ItemTable: Highest item id used:666005
+2025.03.22 18:31:58,717	INFO	1	org.l2jdevs.gameserver.datatables.ItemTable	ItemTable: Loaded: 11481 Etc Items
+2025.03.22 18:31:58,717	INFO	1	org.l2jdevs.gameserver.datatables.ItemTable	ItemTable: Loaded: 3876 Armor Items
+2025.03.22 18:31:58,718	INFO	1	org.l2jdevs.gameserver.datatables.ItemTable	ItemTable: Loaded: 3898 Weapon Items
+2025.03.22 18:31:58,718	INFO	1	org.l2jdevs.gameserver.datatables.ItemTable	ItemTable: Loaded: 19255 Items in total.
+2025.03.22 18:31:58,724	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	EnchantItemGroupsData: Loaded: 4 item group templates.
+2025.03.22 18:31:58,724	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	EnchantItemGroupsData: Loaded: 1 scroll group templates.
+2025.03.22 18:31:58,730	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	EnchantItemData: Loaded 63 Enchant Scrolls.
+2025.03.22 18:31:58,731	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	EnchantItemData: Loaded 20 Support Items.
+2025.03.22 18:31:58,739	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	EnchantItemOptionsData: Loaded: 23 Items and 1093 Options.
+2025.03.22 18:31:59,432	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	OptionData: Loaded: 24985 Options.
+2025.03.22 18:31:59,438	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	EnchantItemHPBonusData: Loaded 6 Enchant HP Bonuses.
+2025.03.22 18:31:59,441	INFO	1	org.l2jdevs.gameserver.datatables.MerchantPriceConfigTable	MerchantPriceConfigTable: Loaded 28 merchant price configs.
+2025.03.22 18:32:00,341	WARNING	1	org.l2jdevs.util.data.xml.IXmlReader	BuyListData: Folder Z:\L2 Another Server\game\data\buylists\custom doesn't exist!
+2025.03.22 18:32:00,341	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	BuyListData: Loaded 760 BuyLists.
+2025.03.22 18:32:00,690	WARNING	1	org.l2jdevs.util.data.xml.IXmlReader	MultisellData: Folder Z:\L2 Another Server\game\data\multisell\custom doesn't exist!
+2025.03.22 18:32:00,698	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	MultisellData: Loaded 194 multisell lists.
+2025.03.22 18:32:00,728	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	RecipeData: Loaded 1000 recipes.
+2025.03.22 18:32:00,763	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	ArmorSetsData: Loaded 207 Armor sets.
+2025.03.22 18:32:00,772	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	FishData: Loaded 278 Fish.
+2025.03.22 18:32:00,775	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	FishingMonstersData: Loaded 8 Fishing Monsters.
+2025.03.22 18:32:00,777	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	FishingRodsData: Loaded 6 Fishing Rods.
+2025.03.22 18:32:00,800	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	HennaData: Loaded 180 Henna data.
+2025.03.22 18:32:00,800	INFO	1	org.l2jdevs.gameserver.GameServer	----------------------------------------------=[ Characters ]
+2025.03.22 18:32:00,800	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	ClassListData: Loaded 107 Class data.
+2025.03.22 18:32:00,800	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	InitialEquipmentData: Loaded 11 Initial Equipment data.
+2025.03.22 18:32:00,800	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	InitialShortcutData: Loaded 5 Initial Global Shortcuts data.
+2025.03.22 18:32:00,800	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	InitialShortcutData: Loaded 4 Initial Shortcuts data.
+2025.03.22 18:32:00,816	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	InitialShortcutData: Loaded 0 Macros presets.
+2025.03.22 18:32:00,847	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	KarmaData: Loaded 85 karma modifiers.
+2025.03.22 18:32:00,847	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	HitConditionBonusData: Loaded Hit Condition bonuses.
+2025.03.22 18:32:01,139	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	PlayerTemplateData: Loaded 103 character templates.
+2025.03.22 18:32:01,300	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	PlayerTemplateData: Loaded 52530 level up gain records.
+2025.03.22 18:32:01,316	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	PlayerCreationPointData: Loaded 62 character creation points.
+2025.03.22 18:32:01,316	INFO	1	org.l2jdevs.gameserver.data.sql.impl.CharNameTable	CharNameTable: Loaded 1 char names.
+2025.03.22 18:32:01,331	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	AdminData: Loaded: 10 Access Levels.
+2025.03.22 18:32:01,331	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	AdminData: Loaded: 444 Access Commands.
+2025.03.22 18:32:01,331	INFO	1	org.l2jdevs.gameserver.instancemanager.RaidBossPointsManager	RaidBossPointsManager: Loaded 0 Character Raid Points.
+2025.03.22 18:32:01,613	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	PetDataTable: Loaded 52 Pets.
+2025.03.22 18:32:01,617	INFO	1	org.l2jdevs.gameserver.GameServer	-----------------------------------------------=[ Languages ]
+2025.03.22 18:32:01,621	INFO	1	org.l2jdevs.gameserver.datatables.LanguageData	Loaded language file: EN with 204 messages.
+2025.03.22 18:32:01,623	INFO	1	org.l2jdevs.gameserver.datatables.LanguageData	Loaded language file: ES with 204 messages.
+2025.03.22 18:32:01,626	INFO	1	org.l2jdevs.gameserver.datatables.LanguageData	Loaded language file: RU with 204 messages.
+2025.03.22 18:32:01,626	INFO	1	org.l2jdevs.gameserver.datatables.LanguageData	LanguageData: Loaded 3 languages.
+2025.03.22 18:32:01,626	INFO	1	org.l2jdevs.gameserver.GameServer	---------------------------------------------------=[ Clans ]
+2025.03.22 18:32:01,639	INFO	1	org.l2jdevs.gameserver.communitybbs.Manager.ForumsBBSManager	Loaded 4 forums. Last forum id used: 4
+2025.03.22 18:32:01,641	INFO	1	org.l2jdevs.gameserver.data.sql.impl.ClanTable	ClanTable: Restored 0 clans from the database.
+2025.03.22 18:32:01,647	INFO	1	org.l2jdevs.gameserver.instancemanager.CHSiegeManager	CHSiegeManager: Loaded 6 conquerable clan halls.
+2025.03.22 18:32:01,689	INFO	1	org.l2jdevs.gameserver.instancemanager.AuctionManager	AuctionManager: Loaded: 38 auction(s)
+2025.03.22 18:32:01,691	INFO	1	org.l2jdevs.gameserver.instancemanager.ClanHallManager	ClanHallManager: Loaded: 0 clan halls
+2025.03.22 18:32:01,691	INFO	1	org.l2jdevs.gameserver.instancemanager.ClanHallManager	ClanHallManager: Loaded: 38 free clan halls
+2025.03.22 18:32:01,692	INFO	1	org.l2jdevs.gameserver.GameServer	-------------------------------------------------=[ Geodata ]
+2025.03.22 18:32:01,732	INFO	1	org.l2jdevs.gameserver.GeoData	GeoData: Loaded 0 regions.
+2025.03.22 18:32:01,732	INFO	1	org.l2jdevs.gameserver.GameServer	----------------------------------------------------=[ NPCs ]
+2025.03.22 18:32:01,747	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	SkillLearnData: Loaded 256 Skill Learn data.
+2025.03.22 18:32:01,747	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	MinionData: Loaded 128 minions data.
+2025.03.22 18:32:03,472	INFO	1	org.l2jdevs.util.data.xml.IXmlReader	NpcData: Loaded 10461 NPCs.

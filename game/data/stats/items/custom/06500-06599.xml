@@ -1,0 +1,1663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/items.xsd">
+	<item id="6593" type="Weapon" name="Shining Bow - Cheap Shot">
+		<set name="icon" val="icon.weapon_shining_bow_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="500" />
+		<set name="damage_range" val="0;0;10;0" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1650" />
+		<set name="price" val="48800000" />
+		<set name="change_weaponId" val="9373" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="6" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<set name="reuse_delay" val="820" />
+		<set name="item_skill" val="3552-1" />
+		<set name="reduced_mp_consume" val="26,1" />
+		<for>
+			<set stat="pAtk" val="581" />
+			<set stat="mAtk" val="132" />
+			<set stat="critRate" val="12" />
+			<add stat="accCombat" val="-3.75" />
+			<set stat="pAtkSpd" val="293" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="6594" type="Weapon" name="Shining Bow - Focus">
+		<set name="icon" val="icon.weapon_shining_bow_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="500" />
+		<set name="damage_range" val="0;0;10;0" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1650" />
+		<set name="price" val="48800000" />
+		<set name="change_weaponId" val="9374" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="6" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<set name="reuse_delay" val="820" />
+		<set name="item_skill" val="3567-1" />
+		<for>
+			<set stat="pAtk" val="581" />
+			<set stat="mAtk" val="132" />
+			<set stat="critRate" val="12" />
+			<add stat="accCombat" val="-3.75" />
+			<set stat="pAtkSpd" val="293" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="6595" type="Weapon" name="Shining Bow - Critical Slow">
+		<set name="icon" val="icon.weapon_shining_bow_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="500" />
+		<set name="damage_range" val="0;0;10;0" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1650" />
+		<set name="price" val="48800000" />
+		<set name="change_weaponId" val="9375" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="6" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<set name="reuse_delay" val="820" />
+		<set name="oncrit_chance" val="16" />
+		<set name="oncrit_skill" val="3574-1" />
+		<set name="item_skill" val="3552-1" />
+		<for>
+			<set stat="pAtk" val="581" />
+			<set stat="mAtk" val="132" />
+			<set stat="critRate" val="12" />
+			<add stat="accCombat" val="-3.75" />
+			<set stat="pAtkSpd" val="293" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="666001" type="Weapon" name="Unleashed Claw of Destruction - Immortality">
+		<!-- Description: Masterwork Item that has the stun effect at a fixed rate when striking. (Soul Crystal Enhancement). Blunt weapon used by Tiat. Bestows a special power upon the wielder. Increases HP recovery rate. Increases damage inflicted during PvP and has a chance of recovering CP during an attack. -->
+		<set name="icon" val="BranchSys2.icon.br_wp_tiatenon_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1740" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="3552-10;3885-10;3650-10;3013-10;21254-10;3568-10;3013-10;3602-10" />
+		<for>
+			<set stat="pAtk" val="437" />
+			<set stat="mAtk" val="192" />
+			<set stat="critRate" val="4" />
+			<add stat="accCombat" val="4.75" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="666002" type="Weapon" name="Unleashed Hellblade - Devastation">
+		<!-- Description: Masterwork Item that increases the critical attack rate. (Soul Crystal Enhancement). Sword used by Darion. Bestows a special power upon the wielder. Increases Critical by 131. Increases damage inflicted during PvP and has a chance of recovering CP during an attack. -->
+		<set name="icon" val="BranchSys2.icon.br_wp_Caladbulg_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="7050" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+		<set name="price" val="143356000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="3013-10;3564-10;3828-10;3552-10;3653-10;3566-10;21252-10" />
+		<for>
+			<set stat="pAtk" val="437" />
+			<set stat="mAtk" val="192" />
+			<set stat="critRate" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="666003" type="Weapon" name="Unleashed Butcher Blades - Bloodlust">
+		<set name="icon" val="BranchSys2.icon.br_wp_habus_knife_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="DUALDAGGER" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;44;120" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="5845" />
+		<set name="crystal_type" val="S80" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="2100" />
+		<set name="price" val="121780000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<set name="enchant4_skill" val="8296-1" />
+		<set name="item_skill" val="3552-10;3858-10;3651-10;3652-10;21253-10;3564-10;3572-10" />
+		<cond msgId="1518">
+			<and>
+				<player level="81" />
+				<player categoryType="DAGGER_MASTER" />
+			</and>
+		</cond>
+		<for>
+			<set stat="pAtk" val="437" />
+			<set stat="mAtk" val="192" />
+			<set stat="critRate" val="12" />
+			<add stat="accCombat" val="-3.75" />
+			<set stat="pAtkSpd" val="433" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="666004" type="Weapon" name="Unleashed Blades of Delusion - Bravery">
+		<!-- Description: Masterwork Item than increases Max HP. Dualsword used by Aenkinel. Bestows a special power upon the wielder. When enchanted, increases P. Atk. of a dualsword, two-handed sword, two-handed blunt weapon and fist weapon more significantly than that of a one-handed sword. When enchanted to 4 or more, increases Critical Damage by 109 and Increases Max HP by 10%. Increases damage inflicted during PvP, and has a chance of increasing Atk. Spd. of bows/crossbows during an attack. -->
+		<set name="icon" val="BranchSys2.icon.br_wp_astarot_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="DUAL" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="crystal_count" val="3597" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+		<set name="price" val="74946000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<set name="enchant4_skill" val="3411-1" />
+		<set name="item_skill" val="3836-10;3656-10;3552-10;21255-10;3570-10;3600-10;3045-10" />
+		<for>
+			<set stat="pAtk" val="532" />
+			<set stat="mAtk" val="192" />
+			<set stat="critRate" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="666005" type="Weapon" name="Blood Brother - Overwhelming">
+		<!-- Description: Masterwork Item than increases Atk. Spd. (Soul Crystal Enhancement). Two-handed sword used by Yehan Klodekus. Bestows a special power upon the wielder. Increases Critical by 111. Increases damage inflicted during PvP. Has a chance of inflicting additional damage during an attack. -->
+		<set name="icon" val="BranchSys2.icon.br_wp_tirbing_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;44;120" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="3597" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1740" />
+		<set name="price" val="74946000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="3840-10;3653-10;3552-10;3566-10;21256-10;3552-10;3600-10" />
+		<for>
+			<set stat="pAtk" val="532" />
+			<set stat="mAtk" val="192" />
+			<set stat="critRate" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="34572" type="Armor" name="Scarlet Helmet">
+		<set name="icon" val="icon.armor_helmet_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="head" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="1205" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="530" />
+		<set name="price" val="25107000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<cond msgId="1518">
+			<player races="HUMAN,ELF,DARK_ELF,ORC,DWARF" />
+		</cond>
+		<for>
+			<add order="0" stat="pDef" val="110" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="34573" type="Armor" name="Scarlet Leather Helmet">
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="head" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="1205" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="530" />
+		<set name="price" val="25107000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="110" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="34574" type="Armor" name="Scarlet Circlet">
+		<set name="icon" val="icon.armor_circlet_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="head" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="1205" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="530" />
+		<set name="price" val="25107000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<cond msgId="1518">
+			<player races="HUMAN,ELF,DARK_ELF,ORC,DWARF" />
+		</cond>
+		<for>
+			<add order="0" stat="pDef" val="110" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="34575" type="Armor" name="Scarlet Breastplate">
+		<set name="icon" val="icon.armor_t97_u_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="3214" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="7520" />
+		<set name="price" val="66953000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<cond msgId="1518">
+			<player races="HUMAN,ELF,DARK_ELF,ORC,DWARF" />
+		</cond>
+		<for>
+			<add order="0" stat="pDef" val="272" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="34576" type="Armor" name="Scarlet Leather Breastplate">
+		<set name="icon" val="icon.armor_t98_u_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="LIGHT" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="2410" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="4140" />
+		<set name="price" val="50215000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="204" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="34577" type="Armor" name="Scarlet Tunic">
+		<set name="icon" val="icon.armor_t99_u_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="MAGIC" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="2410" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="1750" />
+		<set name="price" val="50215000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<cond msgId="1518">
+			<player races="HUMAN,ELF,DARK_ELF,ORC,DWARF" />
+		</cond>
+		<for>
+			<add order="0" stat="pDef" val="136" />
+			<add stat="maxMp" val="661" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="34578" type="Armor" name="Scarlet Gaiter">
+		<set name="icon" val="icon.armor_t97_l_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="legs" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="2009" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="SCALE_OF_DRAGON" />
+		<set name="weight" val="3170" />
+		<set name="price" val="41846000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<cond msgId="1518">
+			<player races="HUMAN,ELF,DARK_ELF,ORC,DWARF" />
+		</cond>
+		<for>
+			<add order="0" stat="pDef" val="170" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="34579" type="Armor" name="Scarlet Leather Legging">
+		<set name="icon" val="icon.armor_t98_l_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="LIGHT" />
+		<set name="bodypart" val="legs" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="1506" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="SCALE_OF_DRAGON" />
+		<set name="weight" val="1320" />
+		<set name="price" val="31384000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="128" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="34580" type="Armor" name="Scarlet Stockings">
+		<set name="icon" val="icon.armor_t99_l_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="MAGIC" />
+		<set name="bodypart" val="legs" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="1506" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="SCALE_OF_DRAGON" />
+		<set name="weight" val="850" />
+		<set name="price" val="31384000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<cond msgId="1518">
+			<player races="HUMAN,ELF,DARK_ELF,ORC,DWARF" />
+		</cond>
+		<for>
+			<add order="0" stat="pDef" val="85" />
+			<add stat="maxMp" val="439" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="34581" type="Armor" name="Scarlet Gauntlet">
+		<set name="icon" val="icon.armor_t97_g_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="gloves" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="803" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="510" />
+		<set name="price" val="16738000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<cond msgId="1518">
+			<player races="HUMAN,ELF,DARK_ELF,ORC,DWARF" />
+		</cond>
+		<for>
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="34582" type="Armor" name="Scarlet Leather Gloves">
+		<set name="icon" val="icon.armor_t98_g_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="gloves" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="803" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="510" />
+		<set name="price" val="16738000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="34583" type="Armor" name="Scarlet Gloves">
+		<set name="icon" val="icon.armor_t99_g_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="gloves" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="803" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="510" />
+		<set name="price" val="16738000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<cond msgId="1518">
+			<player races="HUMAN,ELF,DARK_ELF,ORC,DWARF" />
+		</cond>
+		<for>
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="34584" type="Armor" name="Scarlet Boots">
+		<set name="icon" val="icon.armor_t97_b_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="feet" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="803" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="1070" />
+		<set name="price" val="16738000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<cond msgId="1518">
+			<player races="HUMAN,ELF,DARK_ELF,ORC,DWARF" />
+		</cond>
+		<for>
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="34585" type="Armor" name="Scarlet Leather Boots">
+		<set name="icon" val="icon.armor_t98_b_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="feet" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="803" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="1070" />
+		<set name="price" val="16738000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="34586" type="Armor" name="Scarlet Shoes">
+		<set name="icon" val="icon.armor_t99_b_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="feet" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="803" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="1070" />
+		<set name="price" val="16738000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<cond msgId="1518">
+			<player races="HUMAN,ELF,DARK_ELF,ORC,DWARF" />
+		</cond>
+		<for>
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="34591" type="Armor" name="Scarlet Shield">
+		<set name="icon" val="icon.heavengate_shield_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="844" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="CRYSTAL" />
+		<set name="weight" val="1190" />
+		<set name="price" val="17575000" />
+		<set name="enchant_enabled" val="1" />
+		<cond msgId="1518">
+			<player races="HUMAN,ELF,DARK_ELF,ORC,DWARF" />
+		</cond>
+		<for>
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="413" />
+			<enchant val="0" stat="sDef" />
+		</for>
+	</item>
+	<item id="34592" type="Armor" name="Scarlet Sigil">
+		<set name="icon" val="icon.weapon_pricklelotus_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="SIGIL" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="844" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="920" />
+		<set name="price" val="17575000" />
+		<set name="enchant_enabled" val="1" />
+		<cond msgId="1518">
+			<player races="HUMAN,ELF,DARK_ELF,ORC,DWARF" />
+		</cond>
+		<for>
+			<sub stat="rEvas" val="8" />
+			<add order="0" stat="pDef" val="21" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="34587" type="Armor" name="Scarlet Headgear">
+		<set name="icon" val="AuraKyriadScarletArmor.Icon.g_co_ninja_hair" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hairall" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="price" val="6000000" />
+	</item>
+	<item id="34588" type="Armor" name="Cloak of Scarlet">
+		<set name="icon" val="BranchSys2.Icon.br_freya_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="crystal_type" val="S84" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="price" val="32971650" />
+		<set name="weight" val="220" />
+		<cond msgId="2453">
+			<player cloakStatus="true" />
+		</cond>
+		<for>
+			<add stat="darkRes" val="10" />
+			<add stat="earthRes" val="10" />
+			<add stat="fireRes" val="10" />
+			<add stat="holyRes" val="20" />
+			<add stat="waterRes" val="20" />
+			<add stat="windRes" val="20" />
+			<add order="0" stat="pDef" val="60" />
+		</for>
+	</item>
+	<item id="73100" type="Armor" name="Cobalt Breastplate">
+		<set name="icon" val="icon.armor_t97_u_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="3214" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="7520" />
+		<set name="price" val="66953000" />
+		<set name="enchant_enabled" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<cond msgId="1518">
+			<player races="HUMAN,ELF,DARK_ELF,ORC,DWARF" />
+		</cond>
+		<for>
+			<add order="0" stat="pDef" val="272" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="73101" type="Armor" name="Cobalt Gaiter">
+		<set name="icon" val="icon.armor_t97_l_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="legs" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="2009" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="SCALE_OF_DRAGON" />
+		<set name="weight" val="3170" />
+		<set name="price" val="41846000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="170" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="73102" type="Armor" name="Cobalt Gauntlet">
+		<set name="icon" val="icon.armor_t97_g_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="gloves" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="803" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="510" />
+		<set name="price" val="16738000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="73103" type="Armor" name="Cobalt Boots">
+		<set name="icon" val="icon.armor_t97_b_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="feet" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="803" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="1070" />
+		<set name="price" val="16738000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="73104" type="Armor" name="Cobalt Helmet">
+		<set name="icon" val="icon.armor_helmet_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="head" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="1205" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="530" />
+		<set name="price" val="25107000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="110" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="73105" type="Armor" name="Cobalt Leather Breastplate">
+		<set name="icon" val="icon.armor_t98_u_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="LIGHT" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="2410" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="4140" />
+		<set name="price" val="50215000" />
+		<set name="enchant_enabled" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<for>
+			<add order="0" stat="pDef" val="204" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="73106" type="Armor" name="Cobalt Leather Leggings">
+		<set name="icon" val="icon.armor_t98_l_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="LIGHT" />
+		<set name="bodypart" val="legs" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="1506" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="SCALE_OF_DRAGON" />
+		<set name="weight" val="1320" />
+		<set name="price" val="31384000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="128" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="73107" type="Armor" name="Cobalt Leather Gloves">
+		<set name="icon" val="icon.armor_t98_g_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="gloves" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="803" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="510" />
+		<set name="price" val="16738000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="73108" type="Armor" name="Cobalt Leather Boots">
+		<set name="icon" val="icon.armor_t98_b_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="feet" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="803" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="1070" />
+		<set name="price" val="16738000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="73109" type="Armor" name="Cobalt Leather Helmet">
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="head" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="1205" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="530" />
+		<set name="price" val="25107000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="110" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="73110" type="Armor" name="Cobalt Tunic">
+		<set name="icon" val="icon.armor_t99_u_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="MAGIC" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="2410" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="1750" />
+		<set name="price" val="50215000" />
+		<set name="enchant_enabled" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<cond msgId="1518">
+			<player races="HUMAN,ELF,DARK_ELF,ORC,DWARF" />
+		</cond>
+		<for>
+			<add order="0" stat="pDef" val="136" />
+			<add stat="maxMp" val="661" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="73111" type="Armor" name="Cobalt Stockings">
+		<set name="icon" val="icon.armor_t99_l_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="MAGIC" />
+		<set name="bodypart" val="legs" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="1506" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="SCALE_OF_DRAGON" />
+		<set name="weight" val="850" />
+		<set name="price" val="31384000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="85" />
+			<add stat="maxMp" val="439" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="73112" type="Armor" name="Cobalt Gloves">
+		<set name="icon" val="icon.armor_t99_g_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="gloves" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="803" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="510" />
+		<set name="price" val="16738000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="73113" type="Armor" name="Cobalt Shoes">
+		<set name="icon" val="icon.armor_t99_b_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="feet" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="803" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="1070" />
+		<set name="price" val="16738000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="73114" type="Armor" name="Cobalt Circlet">
+		<set name="icon" val="icon.armor_circlet_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="head" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="1205" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="530" />
+		<set name="price" val="25107000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="110" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="73118" type="Armor" name="Cobalt Cloak">
+		<set name="icon" val="BranchSys2.Icon.br_freya_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="crystal_type" val="S84" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="price" val="32971650" />
+		<set name="weight" val="220" />
+		<cond msgId="2453">
+			<player cloakStatus="true" />
+		</cond>
+		<for>
+			<add stat="darkRes" val="10" />
+			<add stat="earthRes" val="10" />
+			<add stat="fireRes" val="10" />
+			<add stat="holyRes" val="20" />
+			<add stat="waterRes" val="20" />
+			<add stat="windRes" val="20" />
+			<add order="0" stat="pDef" val="60" />
+		</for>
+	</item>
+	<item id="73119" type="Armor" name="Cobalt Headgear">
+		<set name="icon" val="AuraKyriadScarletArmor.Icon.g_co_ninja_hair" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hairall" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="price" val="6000000" />
+	</item>
+	<item id="73120" type="Armor" name="Cobalt Shield">
+		<set name="icon" val="icon.heavengate_shield_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="844" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="CRYSTAL" />
+		<set name="weight" val="1190" />
+		<set name="price" val="17575000" />
+		<set name="enchant_enabled" val="1" />
+		<cond msgId="1518">
+			<player races="HUMAN,ELF,DARK_ELF,ORC,DWARF" />
+		</cond>
+		<for>
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="413" />
+			<enchant val="0" stat="sDef" />
+		</for>
+	</item>
+	<item id="88160" type="Armor" name="Ixion Helmet">
+		<set name="icon" val="icon.armor_helmet_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="head" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="530" />
+		<set name="price" val="25107000" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="110" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="88161" type="Armor" name="Ixion Leather Helmet">
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="head" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="530" />
+		<set name="price" val="25107000" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="110" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="88162" type="Armor" name="Ixion Circlet">
+		<set name="icon" val="icon.armor_circlet_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="head" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="530" />
+		<set name="price" val="25107000" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="110" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="88163" type="Armor" name="Ixion Breastplate">
+		<set name="icon" val="icon.armor_t97_u_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="7520" />
+		<set name="price" val="66953000" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="272" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="88164" type="Armor" name="Ixion Leather Breastplate">
+		<set name="icon" val="icon.armor_t98_u_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="LIGHT" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="4140" />
+		<set name="price" val="50215000" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="204" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="88165" type="Armor" name="Ixion Tunic">
+		<set name="icon" val="icon.armor_t99_u_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="MAGIC" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="1750" />
+		<set name="price" val="50215000" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="136" />
+			<add stat="maxMp" val="661" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="88166" type="Armor" name="Ixion Gaiter">
+		<set name="icon" val="icon.armor_t97_l_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="legs" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="SCALE_OF_DRAGON" />
+		<set name="weight" val="3170" />
+		<set name="price" val="41846000" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="170" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="88167" type="Armor" name="Ixion Leather Legging">
+		<set name="icon" val="icon.armor_t98_l_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="LIGHT" />
+		<set name="bodypart" val="legs" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="SCALE_OF_DRAGON" />
+		<set name="weight" val="1320" />
+		<set name="price" val="31384000" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="128" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="88168" type="Armor" name="Ixion Stockings">
+		<set name="icon" val="icon.armor_t99_l_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="MAGIC" />
+		<set name="bodypart" val="legs" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="SCALE_OF_DRAGON" />
+		<set name="weight" val="850" />
+		<set name="price" val="31384000" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="85" />
+			<add stat="maxMp" val="439" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="88169" type="Armor" name="Ixion Gauntlet">
+		<set name="icon" val="icon.armor_t97_g_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="gloves" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="510" />
+		<set name="price" val="16738000" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="88170" type="Armor" name="Ixion Leather Gloves">
+		<set name="icon" val="icon.armor_t98_g_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="gloves" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="510" />
+		<set name="price" val="16738000" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="88171" type="Armor" name="Ixion Gloves">
+		<set name="icon" val="icon.armor_t99_g_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="gloves" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="510" />
+		<set name="price" val="16738000" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="88172" type="Armor" name="Ixion Boots">
+		<set name="icon" val="icon.armor_t97_b_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="feet" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="1070" />
+		<set name="price" val="16738000" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="88173" type="Armor" name="Ixion Leather Boots">
+		<set name="icon" val="icon.armor_t98_b_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="feet" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="1070" />
+		<set name="price" val="16738000" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="88174" type="Armor" name="Ixion Shoes">
+		<set name="icon" val="icon.armor_t99_b_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="feet" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="1070" />
+		<set name="price" val="16738000" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="88175" type="Armor" name="Ixion Head Gear">
+		<set name="icon" val="AuraKyriadScarletArmor.Icon.g_co_ninja_hair" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hairall" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="price" val="6000000" />
+	</item>
+	<item id="88176" type="Armor" name="Ixion Cloak">
+		<set name="icon" val="BranchSys2.Icon.br_freya_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="crystal_type" val="S84" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="price" val="32971650" />
+		<set name="weight" val="220" />
+		<cond msgId="2453">
+			<player cloakStatus="true" />
+		</cond>
+		<for>
+			<add stat="darkRes" val="10" />
+			<add stat="earthRes" val="10" />
+			<add stat="fireRes" val="10" />
+			<add stat="holyRes" val="20" />
+			<add stat="waterRes" val="20" />
+			<add stat="windRes" val="20" />
+			<add order="0" stat="pDef" val="60" />
+		</for>
+	</item>
+	<item id="90100" type="Armor" name="Legendary Dynasty Helmet">
+		<set name="icon" val="icon.armor_helmet_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="head" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="1205" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="530" />
+		<set name="price" val="25107000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="110" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="90101" type="Armor" name="Legendary Dynasty Breastplate">
+		<set name="icon" val="icon.armor_t97_u_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="3214" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="7520" />
+		<set name="price" val="66953000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="272" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="90102" type="Armor" name="Legendary Dynasty Leggings">
+		<set name="icon" val="icon.armor_t97_l_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="legs" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="2009" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="SCALE_OF_DRAGON" />
+		<set name="weight" val="3170" />
+		<set name="price" val="41846000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="170" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="90103" type="Armor" name="Legendary Dynasty Gauntlets">
+		<set name="icon" val="icon.armor_t97_g_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="gloves" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="803" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="510" />
+		<set name="price" val="16738000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="90104" type="Armor" name="Legendary Dynasty Boots">
+		<set name="icon" val="icon.armor_t97_b_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="feet" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="803" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="1070" />
+		<set name="price" val="16738000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="90105" type="Armor" name="Legendary Dynasty Leather Helmet">
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="head" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="1205" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="530" />
+		<set name="price" val="25107000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="110" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="90106" type="Armor" name="Legendary Dynasty Leather Breastplate">
+		<set name="icon" val="icon.armor_t98_u_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="LIGHT" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="2410" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="4140" />
+		<set name="price" val="50215000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="204" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="90107" type="Armor" name="Legendary Dynasty Leather Pants">
+		<set name="icon" val="icon.armor_t98_l_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="LIGHT" />
+		<set name="bodypart" val="legs" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="1506" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="SCALE_OF_DRAGON" />
+		<set name="weight" val="1320" />
+		<set name="price" val="31384000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="128" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="90108" type="Armor" name="Legendary Dynasty Leather Gloves">
+		<set name="icon" val="icon.armor_t98_g_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="gloves" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="803" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="510" />
+		<set name="price" val="16738000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="90109" type="Armor" name="Legendary Dynasty Leather Boots">
+		<set name="icon" val="icon.armor_t98_b_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="feet" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="803" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="1070" />
+		<set name="price" val="16738000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="90110" type="Armor" name="Legendary Dynasty Diadem">
+		<set name="icon" val="icon.armor_circlet_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="head" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="1205" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="530" />
+		<set name="price" val="25107000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="110" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="90111" type="Armor" name="Legendary Dynasty Tunic">
+		<set name="icon" val="icon.armor_t99_u_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="MAGIC" />
+		<set name="bodypart" val="chest" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="2410" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="1750" />
+		<set name="price" val="50215000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="136" />
+			<add stat="maxMp" val="661" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="90112" type="Armor" name="Legendary Dynasty Pants">
+		<set name="icon" val="icon.armor_t99_l_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="MAGIC" />
+		<set name="bodypart" val="legs" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="1506" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="SCALE_OF_DRAGON" />
+		<set name="weight" val="850" />
+		<set name="price" val="31384000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="85" />
+			<add stat="maxMp" val="439" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="90113" type="Armor" name="Legendary Dynasty Gloves">
+		<set name="icon" val="icon.armor_t99_g_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="gloves" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="803" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="510" />
+		<set name="price" val="16738000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="90114" type="Armor" name="Legendary Dynasty Boots">
+		<set name="icon" val="icon.armor_t99_b_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="feet" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="803" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="1070" />
+		<set name="price" val="16738000" />
+		<set name="element_enabled" val="true" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="90115" type="Armor" name="Legendary Dynasty Sigil">
+		<set name="icon" val="icon.weapon_pricklelotus_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="SIGIL" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="844" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="920" />
+		<set name="price" val="17575000" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<sub stat="rEvas" val="8" />
+			<add order="0" stat="pDef" val="21" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="90120" type="Armor" name="Legendary Dynasty Cloak">
+		<set name="icon" val="BranchSys2.Icon.br_freya_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="crystal_type" val="S84" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="price" val="32971650" />
+		<set name="weight" val="220" />
+		<cond msgId="2453">
+			<player cloakStatus="true" />
+		</cond>
+		<for>
+			<add stat="darkRes" val="10" />
+			<add stat="earthRes" val="10" />
+			<add stat="fireRes" val="10" />
+			<add stat="holyRes" val="20" />
+			<add stat="waterRes" val="20" />
+			<add stat="windRes" val="20" />
+			<add order="0" stat="pDef" val="60" />
+		</for>
+	</item>
+	<item id="90121" type="Armor" name="Legendary Dynasty Headgear">
+		<set name="icon" val="AuraKyriadScarletArmor.Icon.g_co_ninja_hair" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hairall" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="price" val="6000000" />
+	</item>
+	<item id="90211" type="Armor" name="Legendary Dynasty Shield">
+		<set name="icon" val="icon.heavengate_shield_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="844" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="CRYSTAL" />
+		<set name="weight" val="1190" />
+		<set name="price" val="17575000" />
+		<set name="enchant_enabled" val="1" />
+		<for>
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="413" />
+			<enchant val="0" stat="sDef" />
+		</for>
+	</item>
+	<item id="333001" type="EtcItem" name="Legendary Dynasty Armor Chest - Heavy">
+		<set name="icon" val="icon.etc_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="WOOD" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ExtractableItems" />
+		<set name="capsuled_items" val="90100,1,1,100;90101,1,1,100;90102,1,1,100;90103,1,1,100;90104,1,1,100;90120,1,1,100;90121,1,1,100;90211,1,1,100" />
+	</item>
+	<item id="333002" type="EtcItem" name="Scarlet Armor Chest - Heavy">
+		<set name="icon" val="icon.etc_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="WOOD" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ExtractableItems" />
+		<set name="capsuled_items" val="34572,1,1,100;34575,1,1,100;34578,1,1,100;34581,1,1,100;34584,1,1,100;34588,1,1,100;34587,1,1,100;34591,1,1,100" />
+	</item>
+	<item id="333003" type="EtcItem" name="Scarlet Armor Chest - Leather">
+		<set name="icon" val="icon.etc_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="WOOD" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ExtractableItems" />
+		<set name="capsuled_items" val="34573,1,1,100;34576,1,1,100;34579,1,1,100;34582,1,1,100;34585,1,1,100;34588,1,1,100;34587,1,1,100" />
+	</item>
+	<item id="333004" type="EtcItem" name="Scarlet Armor Chest - Robe">
+		<set name="icon" val="icon.etc_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="WOOD" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ExtractableItems" />
+		<set name="capsuled_items" val="34574,1,1,100;34577,1,1,100;34580,1,1,100;34583,1,1,100;34586,1,1,100;34588,1,1,100;34587,1,1,100;34592,1,1,100" />
+	</item>
+	<item id="333005" type="EtcItem" name="Cobalt Armor Chest - Heavy">
+		<set name="icon" val="icon.etc_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="WOOD" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ExtractableItems" />
+		<set name="capsuled_items" val="73104,1,1,100;73100,1,1,100;73101,1,1,100;73102,1,1,100;73103,1,1,100;73118,1,1,100;73119,1,1,100;73120,1,1,100" />
+	</item>
+	<item id="333006" type="EtcItem" name="Cobalt Armor Chest - Leather">
+		<set name="icon" val="icon.etc_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="WOOD" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ExtractableItems" />
+		<set name="capsuled_items" val="73109,1,1,100;73105,1,1,100;73106,1,1,100;73107,1,1,100;73108,1,1,100;73118,1,1,100;73119,1,1,100" />
+	</item>
+	<item id="333007" type="EtcItem" name="Cobalt Armor Chest - Robe">
+		<set name="icon" val="icon.etc_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="WOOD" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ExtractableItems" />
+		<set name="capsuled_items" val="73114,1,1,100;73110,1,1,100;73111,1,1,100;73112,1,1,100;73113,1,1,100;73118,1,1,100;73119,1,1,100" />
+	</item>
+	<item id="333008" type="EtcItem" name="Ixion Armor Chest - Heavy">
+		<set name="icon" val="icon.etc_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="WOOD" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ExtractableItems" />
+		<set name="capsuled_items" val="88160,1,1,100;88163,1,1,100;88166,1,1,100;88169,1,1,100;88172,1,1,100;88176,1,1,100;88175,1,1,100" />
+	</item>
+	<item id="333009" type="EtcItem" name="Ixion Armor Chest - Leather">
+		<set name="icon" val="icon.etc_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="WOOD" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ExtractableItems" />
+		<set name="capsuled_items" val="88161,1,1,100;88164,1,1,100;88167,1,1,100;88170,1,1,100;88173,1,1,100;88176,1,1,100;88175,1,1,100" />
+	</item>
+	<item id="333010" type="EtcItem" name="Ixion Armor Chest - Robe">
+		<set name="icon" val="icon.etc_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="WOOD" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ExtractableItems" />
+		<set name="capsuled_items" val="88162,1,1,100;88165,1,1,100;88168,1,1,100;88171,1,1,100;88174,1,1,100;88176,1,1,100;88175,1,1,100" />
+	</item>
+	<item id="333011" type="EtcItem" name="Legendary Dynasty Armor Chest - Leather">
+		<set name="icon" val="icon.etc_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="WOOD" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ExtractableItems" />
+		<set name="capsuled_items" val="90105,1,1,100;90106,1,1,100;90107,1,1,100;90108,1,1,100;90109,1,1,100;90120,1,1,100;90121,1,1,100" />
+	</item>
+	<item id="333012" type="EtcItem" name="Legendary Dynasty Armor Chest - Robe">
+		<set name="icon" val="icon.etc_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="WOOD" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ExtractableItems" />
+		<set name="capsuled_items" val="90110,1,1,100;90111,1,1,100;90112,1,1,100;90113,1,1,100;90114,1,1,100;90120,1,1,100;90121,1,1,100;90115,1,1,100" />
+	</item>
+</list>

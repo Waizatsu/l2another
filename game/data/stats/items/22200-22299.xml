@@ -1,0 +1,1000 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="22200" type="Armor" name="Agathion Seal Bracelet - Lantern - 33-day limited period (event)">
+		
+		<set name="icon" val="BranchSys2.icon.event_agathion_han_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lbracelet" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="time" val="47520" />
+	</item>
+	<item id="22201" type="EtcItem" name="Lantern Agathion Pack - Event">
+		
+		<set name="icon" val="icon.etc_pi_gift_box_i03" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="100" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22202" type="EtcItem" name="S84 Weapon Box - Event">
+		
+		<set name="icon" val="icon.etc_pi_gift_box_i04" />
+		<set name="material" val="COTTON" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22203" type="EtcItem" name="Vorpal Armor Box - Event">
+		
+		<set name="icon" val="icon.etc_pi_gift_box_i04" />
+		<set name="material" val="COTTON" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22204" type="EtcItem" name="Attribute Stone Box - Event">
+		
+		<set name="icon" val="icon.etc_pi_gift_box_i04" />
+		<set name="material" val="COTTON" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22205" type="EtcItem" name="Attribute Crystal Box - Event">
+		
+		<set name="icon" val="icon.etc_pi_gift_box_i04" />
+		<set name="material" val="COTTON" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22206" type="EtcItem" name="Soul Crystal - Stage 17 Box - Event">
+		
+		<set name="icon" val="icon.etc_pi_gift_box_i04" />
+		<set name="material" val="COTTON" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22207" type="EtcItem" name="Soul Crystal - Stage 18 Box - Event">
+		
+		<set name="icon" val="icon.etc_pi_gift_box_i04" />
+		<set name="material" val="COTTON" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22208" type="EtcItem" name="Angry Bunny Necklace Box - Event">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="material" val="PAPER" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22209" type="EtcItem" name="Angry Bunny Earring Box - Event">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="material" val="PAPER" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22210" type="EtcItem" name="Angry Bunny Ring Box - Event">
+		
+		<set name="icon" val="icon.etc_jewel_box_i00" />
+		<set name="material" val="PAPER" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22211" type="Armor" name="Angry Bunny Necklace - 7-day limited period (event)">
+		
+		<set name="icon" val="branchsys2.icon2.g_accessory_event_necklace" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="neck" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="30" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="time" val="10080" />
+		<for>
+			<add order="0" stat="mDef" val="125" />
+			<add stat="maxMp" val="50" />
+		</for>
+	</item>
+	<item id="22212" type="Armor" name="Angry Bunny Earring - 7-day limited period (event)">
+		
+		<set name="icon" val="branchsys2.icon2.g_accessory_event_earring" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="30" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="time" val="10080" />
+		<for>
+			<add order="0" stat="mDef" val="94" />
+			<add stat="maxMp" val="37" />
+		</for>
+	</item>
+	<item id="22213" type="Armor" name="Angry Bunny Ring - 7-day limited period (event)">
+		
+		<set name="icon" val="branchsys2.icon2.g_accessory_event_ring" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="30" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="time" val="10080" />
+		<for>
+			<add order="0" stat="mDef" val="62" />
+			<add stat="maxMp" val="25" />
+		</for>
+	</item>
+	<item id="22214" type="Armor" name="Angry Bunny Necklace - 30-day limited period (event)">
+		
+		<set name="icon" val="branchsys2.icon2.g_accessory_event_necklace" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="neck" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="30" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="time" val="43200" />
+		<for>
+			<add order="0" stat="mDef" val="125" />
+			<add stat="maxMp" val="50" />
+		</for>
+	</item>
+	<item id="22215" type="Armor" name="Angry Bunny Earring - 30-day limited period (event)">
+		
+		<set name="icon" val="branchsys2.icon2.g_accessory_event_earring" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="30" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="time" val="43200" />
+		<for>
+			<add order="0" stat="mDef" val="94" />
+			<add stat="maxMp" val="37" />
+		</for>
+	</item>
+	<item id="22216" type="Armor" name="Angry Bunny Ring - 30-day limited period (event)">
+		
+		<set name="icon" val="branchsys2.icon2.g_accessory_event_ring" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="30" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="time" val="43200" />
+		<for>
+			<add order="0" stat="mDef" val="62" />
+			<add stat="maxMp" val="25" />
+		</for>
+	</item>
+	<item id="22217" type="EtcItem" name="Lantern Agathion's Gift Set - Event">
+		
+		<set name="icon" val="icon.etc_pi_gift_box_i04" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="100" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22218" type="EtcItem" name="Scroll: Enchant Destruction Box - Event">
+		
+		<set name="icon" val="icon.etc_pi_gift_box_i00" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="100" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22219" type="EtcItem" name="Scroll: Destruction Enchant S-Grade Set - Event">
+		
+		<set name="icon" val="icon.etc_pi_gift_box_i01" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="100" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22220" type="EtcItem" name="Lantern Agathion's Gift - Event">
+		
+		<set name="icon" val="icon.etc_pi_gift_box_i03" />
+		<set name="material" val="COTTON" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22221" type="EtcItem" name="Scroll: Enchant Weapon of Destruction (S-Grade) - Event">
+		
+		<set name="icon" val="icon.etc_blessed_scrl_of_ench_wp_s_i05" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="ANCIENT_CRYSTAL_ENCHANT_WP" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_premium" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="handler" val="EnchantScrolls" />
+		<set name="item_skill" val="22359-1" />
+	</item>
+	<item id="22222" type="EtcItem" name="Scroll: Enchant Armor of Destruction (S-Grade) - Event">
+		
+		<set name="icon" val="icon.etc_blessed_scrl_of_ench_am_s_i05" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="ANCIENT_CRYSTAL_ENCHANT_AM" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_premium" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="handler" val="EnchantScrolls" />
+		<set name="item_skill" val="22360-1" />
+	</item>
+	<item id="22223" type="EtcItem" name="Scroll: Enchant Weapon of Destruction (A-Grade) - Event">
+		
+		<set name="icon" val="icon.etc_blessed_scrl_of_ench_wp_a_i04" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="ANCIENT_CRYSTAL_ENCHANT_WP" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_premium" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="handler" val="EnchantScrolls" />
+		<set name="item_skill" val="22361-1" />
+	</item>
+	<item id="22224" type="EtcItem" name="Scroll: Enchant Armor of Destruction (A-Grade) - Event">
+		
+		<set name="icon" val="icon.etc_blessed_scrl_of_ench_am_a_i04" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="ANCIENT_CRYSTAL_ENCHANT_AM" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_premium" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="handler" val="EnchantScrolls" />
+		<set name="item_skill" val="22362-1" />
+	</item>
+	<item id="22225" type="EtcItem" name="Scroll: Enchant Weapon of Destruction (B-Grade) - Event">
+		
+		<set name="icon" val="icon.etc_blessed_scrl_of_ench_wp_b_i03" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="ANCIENT_CRYSTAL_ENCHANT_WP" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_premium" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="handler" val="EnchantScrolls" />
+		<set name="item_skill" val="22363-1" />
+	</item>
+	<item id="22226" type="EtcItem" name="Scroll: Enchant Armor of Destruction (B-Grade) - Event">
+		
+		<set name="icon" val="icon.etc_blessed_scrl_of_ench_am_b_i03" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="ANCIENT_CRYSTAL_ENCHANT_AM" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_premium" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="handler" val="EnchantScrolls" />
+		<set name="item_skill" val="22364-1" />
+	</item>
+	<item id="22227" type="EtcItem" name="Scroll: Enchant Weapon of Destruction (C-Grade) - Event">
+		
+		<set name="icon" val="icon.etc_blessed_scrl_of_ench_wp_c_i02" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="ANCIENT_CRYSTAL_ENCHANT_WP" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_premium" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="handler" val="EnchantScrolls" />
+		<set name="item_skill" val="22365-1" />
+	</item>
+	<item id="22228" type="EtcItem" name="Scroll: Enchant Armor of Destruction (C-Grade) - Event">
+		
+		<set name="icon" val="icon.etc_blessed_scrl_of_ench_am_c_i02" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="ANCIENT_CRYSTAL_ENCHANT_AM" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_premium" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="handler" val="EnchantScrolls" />
+		<set name="item_skill" val="22366-1" />
+	</item>
+	<item id="22229" type="EtcItem" name="Scroll: Enchant Weapon of Destruction (D-Grade) - Event">
+		
+		<set name="icon" val="icon.etc_blessed_scrl_of_ench_wp_d_i01" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="ANCIENT_CRYSTAL_ENCHANT_WP" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_premium" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="handler" val="EnchantScrolls" />
+		<set name="item_skill" val="22367-1" />
+	</item>
+	<item id="22230" type="EtcItem" name="Scroll: Enchant Armor of Destruction (D-Grade) - Event">
+		
+		<set name="icon" val="icon.etc_blessed_scrl_of_ench_am_d_i01" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="ANCIENT_CRYSTAL_ENCHANT_AM" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_premium" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="handler" val="EnchantScrolls" />
+		<set name="item_skill" val="22368-1" />
+
+	</item>
+	<item id="22231" type="EtcItem" name="Mysterious Blessed Spiritshot (S-Grade) - Event">
+		
+		<set name="icon" val="icon.etc_spell_shot_gold_i01" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22232" type="EtcItem" name="Mysterious Soulshot Pack (S-Grade) - Event">
+		
+		<set name="icon" val="br_cashtex.item.br_cash_pack_of_soulshot_s_i00" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="500" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22233" type="EtcItem" name="Mysterious Blessed Spiritshot Pack (S-Grade) - Event">
+		
+		<set name="icon" val="br_cashtex.item.br_cash_pack_of_blessed_spiritshot_s_i00" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="500" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22234" type="EtcItem" name="Sweet Chocolate Box">
+		
+		<set name="icon" val="icon.etc_pi_gift_box_i04" />
+		<set name="material" val="PAPER" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22235" type="EtcItem" name="Sweet Chocolate">
+		
+		<set name="icon" val="BranchSys.icon.br_valentine_darkchoco_i00" />
+		<set name="material" val="LIQUID" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22236" type="EtcItem" name="Valentine's Day Love Pouch">
+		
+		<set name="icon" val="BranchSys.icon.br_lucky_bag_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22237" type="Armor" name="Shiny Couple Ring">
+		
+		<set name="icon" val="icon.accessory_shiny_couple_ring" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="material" val="GOLD" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<for>
+			<add order="0" stat="mDef" val="7" />
+		</for>
+	</item>
+	<item id="22238" type="EtcItem" name="Scroll: Hair Accessory - Warrior Use">
+		
+		<set name="icon" val="BranchSys.icon.br_scroll_of_transformation_i00" />
+		<set name="material" val="PAPER" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22239" type="EtcItem" name="Scroll: Hair Accessory - Wizard Use">
+		
+		<set name="icon" val="BranchSys.icon.br_scroll_of_transformation_i00" />
+		<set name="material" val="PAPER" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22240" type="EtcItem" name="Improved Rose Spirit Exchange Ticket - 5 hours - Event">
+		
+		<set name="icon" val="icon.etc_ticket_red_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="22241" type="EtcItem" name="Sweet Chocolate Box - Event">
+		
+		<set name="icon" val="icon.etc_pi_gift_box_i04" />
+		<set name="material" val="PAPER" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22242" type="EtcItem" name="Sweet Chocolate - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_valentine_darkchoco_i00" />
+		<set name="material" val="LIQUID" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22243" type="Armor" name="(Not In Use) - Event">
+		
+		<set name="icon" val="icon.accessory_shiny_couple_ring" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="material" val="GOLD" />
+		<for>
+			<add order="0" stat="mDef" val="7" />
+		</for>
+	</item>
+	<item id="22244" type="EtcItem" name="Mysterious Soulshot (C-Grade)">
+		
+		<set name="icon" val="icon.etc_spirit_bullet_green_i00" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="22245" type="EtcItem" name="Mysterious Soulshot (B-Grade)">
+		
+		<set name="icon" val="icon.etc_spirit_bullet_red_i00" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="22246" type="EtcItem" name="Mysterious Soulshot (A-Grade)">
+		
+		<set name="icon" val="icon.etc_spirit_bullet_silver_i00" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="22247" type="EtcItem" name="Mysterious Soulshot (S-Grade)">
+		
+		<set name="icon" val="icon.etc_spirit_bullet_gold_i00" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="22248" type="EtcItem" name="Mysterious Soulshot Pack">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22249" type="EtcItem" name="Mysterious Blessed Spiritshot (C-Grade)">
+		
+		<set name="icon" val="icon.etc_spell_shot_green_i01" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="22250" type="EtcItem" name="Mysterious Blessed Spiritshot (B-Grade)">
+		
+		<set name="icon" val="icon.etc_spell_shot_red_i01" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="22251" type="EtcItem" name="Mysterious Blessed Spiritshot (A-Grade)">
+		
+		<set name="icon" val="icon.etc_spell_shot_silver_i01" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="22252" type="EtcItem" name="Mysterious Blessed Spiritshot (S-Grade)">
+		
+		<set name="icon" val="icon.etc_spell_shot_gold_i01" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="22253" type="EtcItem" name="Mysterious Blessed Spiritshot Pack">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22254" type="Armor" name="Mysterious Friend Summon Bracelet - 30-day limited period">
+		
+		<set name="icon" val="icon.accessory_ring_of_friendship_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="SILVER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="time" val="43200" />
+	</item>
+	<item id="22255" type="EtcItem" name="Mysterious Friend Summon Bracelet 30 day Pack">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22256" type="Armor" name="Chic Silver Chapeau">
+		
+		<set name="icon" val="BranchSys2.icon2.pi_silverchaperon" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hairall" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="22257" type="Armor" name="Fancy Flower Hat">
+		
+		<set name="icon" val="BranchSys2.icon2.pi_flowerhat_for_lady" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair2" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="22258" type="Armor" name="Unicorn Horn Circlet">
+		
+		<set name="icon" val="BranchSys2.icon2.pi_horncirclet_of_unicorn" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="22259" type="Armor" name="Forest Forget-me-not Hat">
+		
+		<set name="icon" val="BranchSys2.icon2.pi_forgetmenot_cap" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair2" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="22260" type="Armor" name="White Uniform Hat">
+		
+		<set name="icon" val="BranchSys2.icon2.pi_navy_cap" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair2" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="22261" type="Armor" name="Golden Viking Circlet">
+		
+		<set name="icon" val="BranchSys2.icon2.pi_vikingcirclet_gold" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="22262" type="Armor" name="Mischievous Bee Hat">
+		
+		<set name="icon" val="BranchSys2.icon2.pi_bee_cap" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair2" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="22263" type="Armor" name="Chic Silver Chapeau  - Event">
+		
+		<set name="icon" val="BranchSys2.icon2.pi_silverchaperon" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hairall" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="22264" type="Armor" name="Fancy Flower Hat - Event">
+		
+		<set name="icon" val="BranchSys2.icon2.pi_flowerhat_for_lady" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair2" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="22265" type="Armor" name="Unicorn Horn Circlet - Event">
+		
+		<set name="icon" val="BranchSys2.icon2.pi_horncirclet_of_unicorn" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="22266" type="Armor" name="Forest Forget-me-not Hat - Event">
+		
+		<set name="icon" val="BranchSys2.icon2.pi_forgetmenot_cap" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair2" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="22267" type="Armor" name="White Uniform Hat - Event">
+		
+		<set name="icon" val="BranchSys2.icon2.pi_navy_cap" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair2" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="22268" type="Armor" name="Golden Viking Circlet - Event">
+		
+		<set name="icon" val="BranchSys2.icon2.pi_vikingcirclet_gold" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="22269" type="Armor" name="Mischievous Bee Hat - Event">
+		
+		<set name="icon" val="BranchSys2.icon2.pi_bee_cap" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair2" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="22270" type="EtcItem" name="Pathfinder Supplies (Level 42)">
+		
+		<set name="icon" val="icon.etc_treasure_box_i07" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="100" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22271" type="EtcItem" name="Pathfinder Supplies (Level 43)">
+		
+		<set name="icon" val="icon.etc_treasure_box_i07" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="100" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22272" type="EtcItem" name="Pathfinder Supplies (Level 44)">
+		
+		<set name="icon" val="icon.etc_treasure_box_i07" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="100" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22273" type="EtcItem" name="Infected Kanabion Tissue Research Paper">
+		
+		<set name="icon" val="icon.etc_scroll_gray_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22274" type="EtcItem" name="PC Transformation Scroll Box - Event">
+		
+		<set name="icon" val="icon.etc_pi_gift_box_i04" />
+		<set name="material" val="COTTON" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22275" type="EtcItem" name="PC Gift Box - Event">
+		
+		<set name="icon" val="icon.etc_pi_gift_box_i04" />
+		<set name="material" val="COTTON" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22276" type="EtcItem" name="PC Transformation Stick Box - Event">
+		
+		<set name="icon" val="icon.etc_pi_gift_box_i04" />
+		<set name="material" val="COTTON" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22277" type="EtcItem" name="PC Hair Accessory Box - Event">
+		
+		<set name="icon" val="icon.etc_pi_gift_box_i04" />
+		<set name="material" val="COTTON" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22278" type="EtcItem" name="PC Luxury Gift Box - Event">
+		
+		<set name="icon" val="icon.etc_pi_gift_box_i04" />
+		<set name="material" val="COTTON" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22279" type="EtcItem" name="PC Vitality - 1 hour - Event">
+		
+		<set name="icon" val="icon.etc_pccafe_point_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22280" type="EtcItem" name="PC Blessing - 1 hour - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_xmas_miracle_i00" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22281" type="Weapon" name="Sujin Transformation Stick - 7-day limited period (event)">
+		
+		<set name="icon" val="BranchSys2.icon.br_blessed_taigirl_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="time" val="10080" />
+		<for>
+			<set stat="pAtk" val="1" />
+			<set stat="mAtk" val="1" />
+			<set stat="critRate" val="8" />
+			<set stat="pAtkSpd" val="379" />
+		</for>
+	</item>
+	<item id="22282" type="EtcItem" name="Sujin Transformation Stick 7-Day Pack - Event">
+		
+		<set name="icon" val="BranchSys2.icon.br_blessed_taiboy_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22283" type="Weapon" name="Trejuo Transformation Stick - 7-day limited period (event)">
+		
+		<set name="icon" val="BranchSys2.icon.br_blessed_taiboy_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="time" val="10080" />
+		<for>
+			<set stat="pAtk" val="1" />
+			<set stat="mAtk" val="1" />
+			<set stat="critRate" val="8" />
+			<set stat="pAtkSpd" val="379" />
+		</for>
+	</item>
+	<item id="22284" type="EtcItem" name="Trejuo Transformation Stick 7-Day Pack - Event">
+		
+		<set name="icon" val="BranchSys2.icon.br_blessed_taiboy_i00" />
+		<set name="material" val="STEEL" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22285" type="Armor" name="Eva's Circlet - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_circlet_of_eva_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="22286" type="EtcItem" name="Jewelry Box - Talisman">
+		
+		<set name="icon" val="icon.etc_treasure_box_i06" />
+		<set name="material" val="CRYSTAL" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22287" type="Armor" name="Agathion Seal Bracelet - Juju - 33-day limited period (event)">
+		
+		<set name="icon" val="icon.high_agathion_bracelet_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lbracelet" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="time" val="47520" />
+	</item>
+	<item id="22288" type="EtcItem" name="Juju Agathion Pack - Event">
+		
+		<set name="icon" val="icon.etc_pi_gift_box_i03" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="100" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22289" type="EtcItem" name="Juju Agathion's Gift - Event">
+		
+		<set name="icon" val="icon.etc_pi_gift_box_i03" />
+		<set name="material" val="COTTON" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22290" type="EtcItem" name="Recipe: Happy Cake - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_valentine_recipe_i00" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22291" type="EtcItem" name="Happy Cake - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_valentine_cake_1_i00" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="100" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22292" type="EtcItem" name="Decoratioin Happy Cake - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_valentine_cake_2_i00" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="100" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22293" type="EtcItem" name="Gorgeous Happy Cake - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_valentine_cake_3_i00" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="100" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22294" type="EtcItem" name="Perfect Happy Cake - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_valentine_cake_4_i00" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="100" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22295" type="EtcItem" name="Miracle Happy Cake - 30-day limited period (event)">
+		
+		<set name="icon" val="BranchSys.icon.br_valentine_cake_5_i00" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="100" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="time" val="43200" />
+	</item>
+	<item id="22296" type="EtcItem" name="Cake Ingredient: Dark Chocolate - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_valentine_darkchoco_i00" />
+		<set name="material" val="PAPER" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22297" type="EtcItem" name="Cake Ingredient: White Chocolate - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_valentine_whitechoco_i00" />
+		<set name="material" val="PAPER" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22298" type="EtcItem" name="Cake Ingredient: Creme Fraiche - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_valentine_cream_i00" />
+		<set name="material" val="PAPER" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22299" type="EtcItem" name="Miracle Happy Cake - Decoration Pack - Event">
+		
+		<set name="icon" val="BranchSys.icon.br_four_leaf_clover_box_i00" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+</list>
